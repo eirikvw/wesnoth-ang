@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-20 16:54+0100\n"
-"PO-Revision-Date: 2011-03-23 04:01-0500\n"
+"PO-Revision-Date: 2011-03-26 20:37-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #. type: TH
 #: ../../doc/man/wesnoth.6:16
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "WESNOTH"
 msgstr "ǷESNOÞ"
 
@@ -31,13 +31,13 @@ msgstr "2011"
 
 #. type: TH
 #: ../../doc/man/wesnoth.6:16
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "wesnoth"
 msgstr "ƿesnoþ"
 
 #. type: TH
 #: ../../doc/man/wesnoth.6:16
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Battle for Wesnoth"
 msgstr "Ƿig for Ƿesnoþ"
 
@@ -1400,5 +1400,6 @@ msgstr ""
 
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:286
+#, fuzzy
 msgid "B<wesnoth>(6)."
 msgstr "B<ƿesnoþ>(6)."
