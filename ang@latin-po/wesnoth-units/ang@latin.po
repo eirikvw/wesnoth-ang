@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-20 16:54+0100\n"
-"PO-Revision-Date: 2011-03-24 03:15-0500\n"
+"PO-Revision-Date: 2011-03-26 20:47-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -2983,7 +2983,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/monsters/Giant_Spider.cfg:37
 msgid "web"
-msgstr "webb"
+msgstr "ƿebb"
 
 #. [unit_type]: id=Mudcrawler, race=monster
 #: data/core/units/monsters/Mudcrawler.cfg:4

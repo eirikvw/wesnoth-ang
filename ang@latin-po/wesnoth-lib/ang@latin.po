@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-03-20 16:54+0100\n"
-"PO-Revision-Date: 2011-03-23 01:27-0500\n"
+"PO-Revision-Date: 2011-03-26 20:48-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -2942,6 +2942,7 @@ msgid "Status Table"
 msgstr ""
 
 #: src/hotkeys.cpp:81
+#, fuzzy
 msgid "Mute"
 msgstr "Dumb"
 
