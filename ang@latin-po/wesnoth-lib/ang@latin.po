@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-05 10:12+0200\n"
-"PO-Revision-Date: 2011-05-07 19:03-0500\n"
+"PO-Revision-Date: 2011-05-07 19:18-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -692,7 +692,7 @@ msgstr ""
 #. [terrain_type]: id=village
 #: data/core/terrain.cfg:1474 data/core/terrain.cfg:2057
 msgid "Village"
-msgstr ""
+msgstr "Þorp"
 
 #. [terrain_type]: id=village_overlay
 #: data/core/terrain.cfg:1475
@@ -1294,7 +1294,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/formula_debugger.cfg:59
 msgid "Welcome"
-msgstr ""
+msgstr "Wilcuma"
 
 #. [label]: id=state
 #: data/gui/default/window/formula_debugger.cfg:71
@@ -1599,7 +1599,7 @@ msgstr ""
 #. [label]: id=room
 #: data/gui/default/window/lobby_main.cfg:479
 msgid "Rooms"
-msgstr ""
+msgstr "Rumas"
 
 #. [image]: id=pending_messages
 #: data/gui/default/window/lobby_main.cfg:497
@@ -1807,7 +1807,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:323
 msgid "Time:"
-msgstr ""
+msgstr "Tima:"
 
 #. [button]: id=status
 #: data/gui/default/window/mp_cmd_wrapper.cfg:374
@@ -1887,7 +1887,7 @@ msgstr ""
 #. [toggle_button]: id=fog
 #: data/gui/default/window/mp_create_game.cfg:460
 msgid "Fog of War"
-msgstr ""
+msgstr "Ƿiges Mist"
 
 #. [toggle_button]: id=random_start_time
 #: data/gui/default/window/mp_create_game.cfg:501
@@ -3380,7 +3380,7 @@ msgstr ""
 
 #: src/mapgen_dialog.cpp:125
 msgid "Villages:"
-msgstr ""
+msgstr "Þorpas:"
 
 #: src/mapgen_dialog.cpp:126
 msgid "Castle Size:"
