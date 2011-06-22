@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-30 20:47+0200\n"
-"PO-Revision-Date: 2011-05-24 17:49-0500\n"
+"PO-Revision-Date: 2011-06-22 03:56-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -413,7 +413,7 @@ msgstr ""
 #. [topic]: id=swarm
 #: data/core/encyclopedia/drakes.cfg:139
 msgid "Swarm"
-msgstr ""
+msgstr "Sƿearm"
 
 #. [topic]: id=swarm
 #: data/core/encyclopedia/drakes.cfg:140
@@ -567,7 +567,7 @@ msgstr ""
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:45
 msgid "Green Isle"
-msgstr ""
+msgstr "Grene Iegland"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:46
@@ -2089,7 +2089,7 @@ msgstr ""
 #. [topic]: id=terrain_hills
 #: data/core/help.cfg:532
 msgid "Hills"
-msgstr ""
+msgstr "Hyllas"
 
 #. [topic]: id=terrain_hills
 #: data/core/help.cfg:539
@@ -2421,7 +2421,7 @@ msgstr ""
 #. [topic]: id=terrain_bridge
 #: data/core/help.cfg:760
 msgid "Bridge"
-msgstr ""
+msgstr "Brycg"
 
 #. [topic]: id=terrain_bridge
 #: data/core/help.cfg:766
@@ -3042,7 +3042,7 @@ msgstr ""
 #. [swarm]: id=swarm
 #: data/core/macros/abilities.cfg:724
 msgid "swarm"
-msgstr ""
+msgstr "sƿearm"
 
 #. [swarm]: id=swarm
 #: data/core/macros/abilities.cfg:726
@@ -4145,10 +4145,9 @@ msgstr "Ƿulf"
 
 #. [race]: id=wolf, description=
 #: data/core/units.cfg:303
-#, fuzzy
 #| msgid "race+female^Elf"
 msgid "race+female^Wolf"
-msgstr "Ælf"
+msgstr "Ƿulf"
 
 #. [race]: id=wolf, description=
 #: data/core/units.cfg:304
