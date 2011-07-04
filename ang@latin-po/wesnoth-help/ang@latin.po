@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-05-30 20:47+0200\n"
-"PO-Revision-Date: 2011-06-22 03:56-0500\n"
+"PO-Revision-Date: 2011-07-03 23:05-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -2771,14 +2771,14 @@ msgstr ""
 #: data/core/macros/abilities.cfg:172 data/core/macros/abilities.cfg:219
 #: data/core/macros/abilities.cfg:278
 msgid "leadership"
-msgstr ""
+msgstr "ladscipe"
 
 #. [leadership]: id=leadership
 #: data/core/macros/abilities.cfg:115 data/core/macros/abilities.cfg:138
 #: data/core/macros/abilities.cfg:173 data/core/macros/abilities.cfg:220
 #: data/core/macros/abilities.cfg:279
 msgid "female^leadership"
-msgstr ""
+msgstr "ladscipe"
 
 #. [leadership]: id=leadership
 #: data/core/macros/abilities.cfg:119 data/core/macros/abilities.cfg:142
@@ -3878,10 +3878,9 @@ msgstr ""
 
 #. [race]: id=monster
 #: data/core/units.cfg:215
-#, fuzzy
 #| msgid "race+female^Dwarf"
 msgid "race+female^Monster"
-msgstr "Dƿeorg"
+msgstr ""
 
 #. [race]: id=monster
 #: data/core/units.cfg:216
@@ -3903,10 +3902,9 @@ msgstr ""
 
 #. [race]: id=naga
 #: data/core/units.cfg:225
-#, fuzzy
 #| msgid "race^Human"
 msgid "race^Nagini"
-msgstr "Mann"
+msgstr ""
 
 #. [race]: id=naga
 #: data/core/units.cfg:226
@@ -4166,22 +4164,20 @@ msgstr ""
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:324
-#, fuzzy
 #| msgid "race^Human"
 msgid "race^Khalifate Human"
-msgstr "Mann"
+msgstr ""
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:325
-#, fuzzy
 #| msgid "race+female^Elf"
 msgid "race+female^Khalifate Human"
-msgstr "Ælf"
+msgstr ""
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:326
 msgid "race+plural^Khalifate"
-msgstr ""
+msgstr "Califdom"
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:327
@@ -4217,7 +4213,7 @@ msgstr ""
 
 #: src/help.cpp:1260
 msgid "Leaders:"
-msgstr ""
+msgstr "Læderas:"
 
 #: src/help.cpp:1269
 msgid "Recruits:"
