@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-06-18 19:04+0200\n"
-"PO-Revision-Date: 2011-07-08 19:25-0500\n"
+"PO-Revision-Date: 2011-07-08 19:59-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -1663,7 +1663,7 @@ msgstr "Sendan"
 #: data/gui/default/window/title_screen.cfg:230
 #: src/game_preferences_display.cpp:56 src/hotkeys.cpp:85
 msgid "Preferences"
-msgstr ""
+msgstr "Costas"
 
 #. [button]: id=refresh
 #: data/gui/default/window/lobby_main.cfg:673
