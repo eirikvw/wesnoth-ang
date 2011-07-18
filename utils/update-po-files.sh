@@ -1,6 +1,6 @@
 #! /bin/bash
 #
-# Script to update po files after a po update
+# Script to update po files after a pot-update
 # Requires a wesnoth checkout named "wesnoth" in the root of your home directory and
 # a git clone named "wesnoth-ang" in the root of your home directory
 #
