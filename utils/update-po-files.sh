@@ -32,7 +32,6 @@ wesnoth-trow
 wesnoth-tsg
 wesnoth-tutorial
 wesnoth-units
-wesnoth-units
 wesnoth-utbs
 )
 
