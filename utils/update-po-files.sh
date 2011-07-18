@@ -40,5 +40,4 @@ for i in "${td[@]}"
 do
 cp ~/wesnoth/po/$i/ang.po ~/wesnoth-ang/ang-po/$i/ang.po
 cp ~/wesnoth/po/$i/ang\@latin.po ~/wesnoth-ang/ang\@latin-po/$i/ang\@latin.po
-echo cp ~/wesnoth/po/$i/ang\@latin.po ~/wesnoth-ang/ang\@latin-po/$i/ang\@latin.po
 done
