@@ -30,7 +30,8 @@ wesnoth-trow
 wesnoth-tsg
 wesnoth-tutorial
 wesnoth-units
-wesnoth-utbs )
+wesnoth-utbs
+)
 
 
 for i in "${td[@]}"
