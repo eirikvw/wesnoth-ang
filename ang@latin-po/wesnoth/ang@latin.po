@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-24 18:18+0200\n"
-"PO-Revision-Date: 2011-07-23 17:00-0500\n"
+"PO-Revision-Date: 2011-08-01 00:19-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -409,15 +409,13 @@ msgstr "Niƿe Englisc"
 
 #. [about]
 #: data/core/about.cfg:1209
-#, fuzzy
 msgid "Afrikaans Translation"
-msgstr "Affricaniscu Þeodnes"
+msgstr "Affricanisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:1229
-#, fuzzy
 msgid "Arabic Translation"
-msgstr "Arabiscu Þeodnes"
+msgstr "Arabisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:1236
@@ -456,14 +454,13 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:1448
-#, fuzzy
 msgid "Danish Translation"
-msgstr "Deniscu Þeodnes"
+msgstr "Denisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:1479
 msgid "Dutch Translation"
-msgstr ""
+msgstr "Niðerlendisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:1540
@@ -494,9 +491,8 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:1625
-#, fuzzy
 msgid "Finnish Translation"
-msgstr "Finniscu Þeodnes"
+msgstr "Finnisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:1671
@@ -521,7 +517,7 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:1937
 msgid "Greek Translation"
-msgstr ""
+msgstr "Creacisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:1974
@@ -535,9 +531,8 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2048
-#, fuzzy
 msgid "Icelandic Translation"
-msgstr "Islendiscu Þeodnes"
+msgstr "Islendisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2058
@@ -546,20 +541,18 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2075
-#, fuzzy
 msgid "Irish Translation"
-msgstr "Iriscu Þeodnes"
+msgstr "Irisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2082
 msgid "Italian Translation"
-msgstr ""
+msgstr "Italisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2117
-#, fuzzy
 msgid "Japanese Translation"
-msgstr "Iapaniscu Þeodnes"
+msgstr "Iapanisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2181
@@ -568,19 +561,18 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2193
-#, fuzzy
 msgid "Latin Translation"
 msgstr "Lædenu Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2220
 msgid "Latvian Translation"
-msgstr ""
+msgstr "Lettisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2231
 msgid "Lithuanian Translation"
-msgstr ""
+msgstr "Liþþuanisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2254
@@ -595,18 +587,18 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:2270
 msgid "Norwegian Translation"
-msgstr ""
+msgstr "Norðish Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2295
+#, fuzzy
 msgid "Old English Translation"
-msgstr ""
+msgstr "Englisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2304
-#, fuzzy
 msgid "Polish Translation"
-msgstr "Poliscu Þeodnes"
+msgstr "Polisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2344
@@ -621,7 +613,7 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:2393
 msgid "Romanian Translation"
-msgstr ""
+msgstr "Rumænisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2401
@@ -645,14 +637,13 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2535
-#, fuzzy
 msgid "Spanish Translation"
-msgstr "Speoniscu Þeodnes"
+msgstr "Speonisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2605
 msgid "Swedish Translation"
-msgstr ""
+msgstr "Sƿeonisc Þeodnes"
 
 #. [about]
 #: data/core/about.cfg:2640
@@ -4957,7 +4948,7 @@ msgstr ""
 
 #: src/multiplayer_lobby.cpp:750
 msgid "Search:"
-msgstr ""
+msgstr "Secan:"
 
 #: src/multiplayer_lobby.cpp:758
 msgid "Skip quickly to the active turn when observing"

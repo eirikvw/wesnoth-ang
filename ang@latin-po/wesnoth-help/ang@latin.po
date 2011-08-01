@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-07-22 18:03-0500\n"
+"PO-Revision-Date: 2011-07-31 23:21-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -2064,7 +2064,7 @@ msgstr ""
 #. [topic]: id=terrain_forest
 #: data/core/help.cfg:517
 msgid "Forest"
-msgstr ""
+msgstr "Ƿeald"
 
 #. [topic]: id=terrain_forest
 #: data/core/help.cfg:524
@@ -2855,12 +2855,12 @@ msgstr ""
 #. [hides]: id=ambush
 #: data/core/macros/abilities.cfg:417 data/core/macros/abilities.cfg:419
 msgid "ambush"
-msgstr ""
+msgstr "sætung"
 
 #. [hides]: id=ambush
 #: data/core/macros/abilities.cfg:418 data/core/macros/abilities.cfg:420
 msgid "female^ambush"
-msgstr ""
+msgstr "sætung"
 
 #. [hides]: id=ambush
 #: data/core/macros/abilities.cfg:424 data/core/macros/abilities.cfg:428
@@ -2941,12 +2941,12 @@ msgstr ""
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:524
 msgid "feeding"
-msgstr ""
+msgstr "feding"
 
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:525
 msgid "female^feeding"
-msgstr ""
+msgstr "feding"
 
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:527
@@ -3759,7 +3759,7 @@ msgstr "Mann"
 #. [race]: id=human
 #: data/core/units.cfg:165
 msgid "race+female^Human"
-msgstr ""
+msgstr "Mann"
 
 #. [race]: id=human
 #: data/core/units.cfg:166
@@ -4152,12 +4152,12 @@ msgstr "Ƿulfas"
 #. [race]: id=wose, description=
 #: data/core/units.cfg:313
 msgid "race^Wose"
-msgstr ""
+msgstr "Ƿuduƿasa"
 
 #. [race]: id=wose, description=
 #: data/core/units.cfg:314
 msgid "race^Woses"
-msgstr ""
+msgstr "Ƿuduƿasan"
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:324

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-24 14:57+0200\n"
-"PO-Revision-Date: 2011-07-23 15:03-0500\n"
+"PO-Revision-Date: 2011-07-31 22:50-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -4360,7 +4360,7 @@ msgstr ""
 #. [unit_type]: id=Ancient Wose, race=wose
 #: data/core/units/wose/Ancient.cfg:4
 msgid "Ancient Wose"
-msgstr ""
+msgstr "Gamol Ƿuduƿasa"
 
 #. [unit_type]: id=Ancient Wose, race=wose
 #: data/core/units/wose/Ancient.cfg:21
@@ -4384,7 +4384,7 @@ msgstr ""
 #. [unit_type]: id=Elder Wose, race=wose
 #: data/core/units/wose/Elder.cfg:4
 msgid "Elder Wose"
-msgstr ""
+msgstr "Eldra Ƿuduƿasa"
 
 #. [unit_type]: id=Elder Wose, race=wose
 #: data/core/units/wose/Elder.cfg:20
@@ -4405,7 +4405,7 @@ msgstr ""
 #. [unit_type]: id=Wose, race=wose
 #: data/core/units/wose/Wose.cfg:4
 msgid "Wose"
-msgstr ""
+msgstr "Ƿuduƿasa"
 
 #. [unit_type]: id=Wose, race=wose
 #: data/core/units/wose/Wose.cfg:21
