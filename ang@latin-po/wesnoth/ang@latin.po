@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-24 18:18+0200\n"
-"PO-Revision-Date: 2011-08-01 00:19-0500\n"
+"PO-Revision-Date: 2011-08-01 00:30-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -4676,7 +4676,7 @@ msgstr ""
 
 #: src/multiplayer_connect.cpp:1117 src/reports.cpp:135 src/savegame.cpp:707
 msgid "Name: "
-msgstr "Nama:"
+msgstr "Nama: "
 
 #: src/multiplayer_connect.cpp:1518
 msgid "Network Player"
@@ -5166,7 +5166,7 @@ msgstr ""
 
 #: src/playsingle_controller.cpp:274
 msgid "Gold: "
-msgstr "Gold:"
+msgstr "Gold: "
 
 #: src/playsingle_controller.cpp:278
 msgid "Carry over percentage: "
