@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-09 09:00+0200\n"
-"PO-Revision-Date: 2011-07-31 23:21-0500\n"
+"PO-Revision-Date: 2011-08-10 11:13-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -1441,7 +1441,7 @@ msgstr "Morgen"
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:273 data/core/macros/schedules.cfg:26
 msgid "Afternoon"
-msgstr ""
+msgstr "Middæg"
 
 #. [time]: id=dusk
 #. [topic]: id=time_of_day
@@ -2751,12 +2751,12 @@ msgstr ""
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:98
 msgid "steadfast"
-msgstr ""
+msgstr "stedefæst"
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:99
 msgid "female^steadfast"
-msgstr ""
+msgstr "stedefæstu"
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:101
@@ -2941,12 +2941,12 @@ msgstr ""
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:524
 msgid "feeding"
-msgstr "feding"
+msgstr "fretting"
 
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:525
 msgid "female^feeding"
-msgstr "feding"
+msgstr "fretting"
 
 #. [dummy]: id=feeding
 #: data/core/macros/abilities.cfg:527
@@ -3002,7 +3002,7 @@ msgstr ""
 #. [slow]: id=slow
 #: data/core/macros/abilities.cfg:675
 msgid "slows"
-msgstr ""
+msgstr "aslæƿaþ"
 
 #. [slow]: id=slow
 #: data/core/macros/abilities.cfg:677

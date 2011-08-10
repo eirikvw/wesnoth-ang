@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-07-24 18:18+0200\n"
-"PO-Revision-Date: 2011-08-01 00:30-0500\n"
+"PO-Revision-Date: 2011-08-05 09:45-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
@@ -233,14 +233,14 @@ msgstr "geætred"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1352
 #: data/lua/wml-tags.lua:750 src/actions.cpp:1448
 msgid "female^slowed"
-msgstr ""
+msgstr "geaslæƿedu"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [else]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1355
 #: data/lua/wml-tags.lua:750 src/actions.cpp:1448
 msgid "slowed"
-msgstr ""
+msgstr "geaslæƿed"
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:43
@@ -3176,7 +3176,7 @@ msgstr ""
 
 #: src/attack_prediction_display.cpp:251
 msgid "Slowed"
-msgstr ""
+msgstr "Geaslæƿed"
 
 #: src/attack_prediction_display.cpp:256
 msgid "Total damage"
@@ -5294,7 +5294,7 @@ msgstr ""
 
 #: src/reports.cpp:233
 msgid "slowed: "
-msgstr ""
+msgstr "geaslæƿed: "
 
 #: src/reports.cpp:234
 msgid ""
@@ -5378,7 +5378,7 @@ msgstr "Ladscipe: "
 
 #: src/reports.cpp:470
 msgid "Slowed: "
-msgstr ""
+msgstr "Geaslæƿed: "
 
 #: src/reports.cpp:474
 msgid "Attacks: "
