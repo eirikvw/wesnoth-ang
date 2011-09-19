@@ -4023,7 +4023,7 @@ msgstr ""
 # Genetive: nagan / nagena
 # Dative: nagan / nagum
 # -------
-# TODO: decide how to transliterate "negena" to the fuþorc.
+# TODO: decide how to transliterate "nagena" to the fuþorc.
 #. [race]: id=naga
 #: data/core/units.cfg:224
 msgid "race^Naga"
