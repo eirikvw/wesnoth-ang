@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-08-27 10:14+0200\n"
-"PO-Revision-Date: 2011-09-18 23:34-0500\n"
+"PO-Revision-Date: 2011-09-18 23:53-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -4031,7 +4031,7 @@ msgstr "Naga"
 
 # Loanword from Sanskrit.
 # -
-# I'm analyzing the "-ini" as though it were a relative of "-en"/"-in" for the sake of declension. Although this is probably wrong, that's probably what they would have done back then. Also, translation is an art; not a science.
+# I'm analyzing the "-ini" as though it were a relative of "-en"/"-in" for the sake of declension. Although this is probably wrong, that's probably what they would have done back then. Also, translation is an art — not a science.
 # -------------
 # Declension (singular / plural):
 # -
