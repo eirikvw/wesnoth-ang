@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-04 11:42+0200\n"
-"PO-Revision-Date: 2011-09-18 22:55-0500\n"
+"PO-Revision-Date: 2011-09-27 15:56-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -775,6 +775,7 @@ msgstr ""
 #: data/core/macros/ai_controller.cfg:320
 #: data/core/macros/ai_controller.cfg:709
 #: data/core/macros/ai_controller.cfg:800
+#, fuzzy
 msgid "Back"
 msgstr "Bæc"
 
