@@ -2145,7 +2145,6 @@ msgstr ""
 
 #. [toggle_button]: id=fog
 #: data/gui/default/window/mp_create_game.cfg:460
-#| msgid "Fog of War"
 msgid "Fog of war"
 msgstr "Ƿiges mist"
 
