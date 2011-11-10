@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-10 17:21-0500\n"
+"PO-Revision-Date: 2011-11-10 17:30-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -757,7 +757,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
 #: data/core/units/dwarves/Berserker.cfg:4
 msgid "Dwarvish Berserker"
-msgstr "Dƿeorgen Beraserca"
+msgstr "Dƿeorgisc Beraserca"
 
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
 #: data/core/units/dwarves/Berserker.cfg:19
@@ -807,7 +807,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Lord, race=dwarf
 #: data/core/units/dwarves/Lord.cfg:4
 msgid "Dwarvish Lord"
-msgstr "Dƿeorgen Hlaford"
+msgstr "Dƿeorgisc Hlaford"
 
 #. [unit_type]: id=Dwarvish Lord, race=dwarf
 #: data/core/units/dwarves/Lord.cfg:19
@@ -901,7 +901,7 @@ msgstr ""
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
 #: data/core/units/dwarves/Ulfserker.cfg:4
 msgid "Dwarvish Ulfserker"
-msgstr "Dƿeorgen Ƿulfserca"
+msgstr "Dƿeorgisc Ƿulfserca"
 
 #. [unit_type]: id=Dwarvish Ulfserker, race=dwarf
 #: data/core/units/dwarves/Ulfserker.cfg:20
