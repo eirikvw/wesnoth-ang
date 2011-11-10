@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-10 11:06-0500\n"
+"PO-Revision-Date: 2011-11-10 16:46-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -3040,6 +3040,7 @@ msgid "Version: "
 msgstr ""
 
 #: src/gui/dialogs/lobby_main.cpp:230
+#, fuzzy
 msgid "whisper to $receiver"
 msgstr "hƿisprian to $receiver"
 
@@ -3565,6 +3566,7 @@ msgid "Speak to Ally"
 msgstr ""
 
 #: src/hotkeys.cpp:201
+#, fuzzy
 msgid "Speak to All"
 msgstr "Sprecan to Eallum"
 
