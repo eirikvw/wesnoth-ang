@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-10-31 21:12+0100\n"
+"POT-Creation-Date: 2011-11-16 12:43+0100\n"
 "PO-Revision-Date: 2011-06-22 04:30-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
@@ -202,6 +202,7 @@ msgid ""
 msgstr ""
 
 #. [part]
+#. tyrant -> Queen Asheviere from Heir to the Throne.
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:45
 msgid ""
 "Word quickly spread among the humans that this hero was none other than "
@@ -2206,7 +2207,7 @@ msgstr ""
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1004
 msgid ""
 "It’s an escape tunnel. The hole wasn’t big enough for me to go through but "
-"one you little guys you might fit."
+"one of you little guys might fit."
 msgstr ""
 
 #. [message]: speaker=unit
@@ -4078,6 +4079,8 @@ msgid ""
 msgstr ""
 
 #. [part]
+#. "coil" meant, in Middle and Early Modern English, a difficulty
+#. or problem.
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:63
 msgid ""
 "That will be very difficult. We did that last time and they will no doubt be "
@@ -4438,7 +4441,7 @@ msgid ""
 "Don’t! Please, my friend, listen. The orcs are on the rise again and they "
 "are threatening to complete their conquest of Knalga and convert it into an "
 "orcish stronghold. We can’t let that happen! That’s why we have come here, "
-"to seek yours and your brothers help in defeating the orcs."
+"to seek your and your brother’s help in defeating the orcs."
 msgstr ""
 
 #. [message]: id=Ro'Sothian
@@ -6149,7 +6152,7 @@ msgstr ""
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:247
-msgid "Pff, foolish human. What in the world gave you that idea."
+msgid "Pff, foolish human. What in the world gave you that idea?"
 msgstr ""
 
 #. [message]: speaker=Ro'Arthian
@@ -7712,6 +7715,7 @@ msgid ""
 msgstr ""
 
 #. [part]
+#. "espied" is correct here, it's a deliberate archaism
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:112
 msgid ""
 "Moments later a gryphon swooped down from overhead and reported battle in a "
