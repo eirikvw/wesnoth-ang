@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-23 14:08+0100\n"
-"PO-Revision-Date: 2011-11-10 10:52-0500\n"
+"PO-Revision-Date: 2011-11-29 15:38-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -1927,7 +1927,7 @@ msgstr "ceald"
 #. [language]
 #: data/english.cfg:52
 msgid "arcane"
-msgstr ""
+msgstr "runlic"
 
 #. [server]
 #: data/game_config.cfg:4
@@ -3546,8 +3546,9 @@ msgid "none"
 msgstr "nan"
 
 #: src/gui/dialogs/lobby_player_info.cpp:98
+#, fuzzy
 msgid "In game:"
-msgstr ""
+msgstr "On gamene:"
 
 #: src/gui/dialogs/lobby_player_info.cpp:100
 msgid "(observing)"
