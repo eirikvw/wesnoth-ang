@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-29 16:16-0500\n"
+"PO-Revision-Date: 2011-11-30 11:14-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -3152,7 +3152,7 @@ msgstr ""
 #. [time]: id=morning_hour1
 #: data/core/macros/schedules.cfg:257
 msgid "Morning — First Hour"
-msgstr "Morgen — Fyrstu Tid"
+msgstr "Morgen — Forme Tid"
 
 # TODO: find the declension paradigma for "oðer"
 #. [time]: id=morning_hour2
@@ -3163,12 +3163,12 @@ msgstr "Morgen — Oðeru Tid"
 #. [time]: id=morning_hour3
 #: data/core/macros/schedules.cfg:275
 msgid "Morning — Third Hour"
-msgstr "Morgen — Þriddau Tid"
+msgstr "Morgen — Þridde Tid"
 
 #. [time]: id=morning_hour4
 #: data/core/macros/schedules.cfg:284
 msgid "Morning — Fourth Hour"
-msgstr "Morgen — Feorðau Tid"
+msgstr "Morgen — Feorðe Tid"
 
 #. [time]: id=midday_hour
 #: data/core/macros/schedules.cfg:293
@@ -3178,7 +3178,7 @@ msgstr "Middæg"
 #. [time]: id=afternoon_hour1
 #: data/core/macros/schedules.cfg:302
 msgid "Afternoon — First Hour"
-msgstr "Middæg — Fyrstu Tid"
+msgstr "Middæg — Forme Tid"
 
 #. [time]: id=afternoon_hour2
 #: data/core/macros/schedules.cfg:311
@@ -3188,22 +3188,22 @@ msgstr "Middæg — Oðeru Tid"
 #. [time]: id=afternoon_hour3
 #: data/core/macros/schedules.cfg:320
 msgid "Afternoon — Third Hour"
-msgstr "Middæg — Þriddau Tid"
+msgstr "Middæg — Þridde Tid"
 
 #. [time]: id=afternoon_hour4
 #: data/core/macros/schedules.cfg:329
 msgid "Afternoon — Fourth Hour"
-msgstr "Middæg — Feorðau Tid"
+msgstr "Middæg — Feorðe Tid"
 
 #. [time]: id=afternoon_hour5
 #: data/core/macros/schedules.cfg:338
 msgid "Afternoon — Fifth Hour"
-msgstr "Middæg — Fiftau Tid"
+msgstr "Middæg — Fifte Tid"
 
 #. [time]: id=afternoon_hour6
 #: data/core/macros/schedules.cfg:347
 msgid "Afternoon — Sixth Hour"
-msgstr "Middæg — Sixtau Tid"
+msgstr "Middæg — Sixte Tid"
 
 #. [time]: id=first_watch_hour1
 #: data/core/macros/schedules.cfg:369
