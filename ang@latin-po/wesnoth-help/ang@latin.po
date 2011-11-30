@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2011-11-30 11:14-0500\n"
+"PO-Revision-Date: 2011-11-30 16:12-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -2249,7 +2249,7 @@ msgstr ""
 #. [topic]: id=terrain_cave
 #: data/core/help.cfg:645
 msgid "Cave"
-msgstr ""
+msgstr "Scræf"
 
 #. [topic]: id=terrain_cave
 #: data/core/help.cfg:650
@@ -2289,7 +2289,7 @@ msgstr ""
 #. [topic]: id=terrain_illuminated_cave
 #: data/core/help.cfg:669
 msgid "Illuminated Cave"
-msgstr ""
+msgstr "Geleohted Scræf"
 
 #. [topic]: id=terrain_illuminated_cave
 #: data/core/help.cfg:672
