@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-23 14:08+0100\n"
+"POT-Creation-Date: 2011-11-23 15:01+0100\n"
 "PO-Revision-Date: 2011-11-30 16:06-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
@@ -612,7 +612,6 @@ msgstr ""
 #. [terrain_type]: id=cavewall_earthy_hewn
 #: data/core/terrain.cfg:1039 data/core/terrain.cfg:1050
 #: data/core/terrain.cfg:1061 data/core/terrain.cfg:1072
-#| msgid "Stone Wall"
 msgid "Cave Wall"
 msgstr "Scræf Ƿeall"
 
