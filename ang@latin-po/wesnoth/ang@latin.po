@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-23 15:01+0100\n"
-"PO-Revision-Date: 2011-12-01 07:52-0500\n"
+"PO-Revision-Date: 2011-12-01 10:31-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -638,7 +638,7 @@ msgstr "Rumænisc Geþeodnes"
 #. [about]
 #: data/core/about.cfg:2437
 msgid "Russian Translation"
-msgstr ""
+msgstr "Russic Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:2519
@@ -1809,6 +1809,7 @@ msgstr ""
 
 #. [language]
 #: data/english.cfg:27
+#, fuzzy
 msgid "$name Lake"
 msgstr "$name|es Lagu"
 
@@ -1825,7 +1826,7 @@ msgstr ""
 #. [language]
 #: data/english.cfg:30
 msgid "$name|bury,$name|ham,$name|ton,$name|bury"
-msgstr ""
+msgstr "$name|burh,$name|ham,$name|tun,$name|burh"
 
 #. [language]
 #: data/english.cfg:31
@@ -1852,12 +1853,15 @@ msgstr ""
 msgid "$name|ham,$name|ton,$name|field"
 msgstr "$name|ham,$name|tun,$name|feld"
 
+# TODO: do research on OE forest and woods names
 #. [language]
 #: data/english.cfg:35
 msgid ""
 "$name|ham,$name|ton,$name|wood,$name Forest,$forest|wood,$forest|ham,$forest|"
 "ton"
 msgstr ""
+"$name|ham,$name|tun,$name|ƿudu,$name Ƿeald,$forest|ƿudu,$forest|ham,$forest|"
+"tun"
 
 #. [language]
 #: data/english.cfg:36
