@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2011-12-01 10:31-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2011-12-09 16:28-0500\n"
+"Last-Translator: Eirik Westcoat <eirikvw@aim.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
 "MIME-Version: 1.0\n"
@@ -975,12 +975,12 @@ msgstr ""
 #: data/core/macros/items.cfg:268
 #, fuzzy
 msgid "holy water^Take it"
-msgstr "Niman hine"
+msgstr "Niman hit"
 
 #: data/core/macros/items.cfg:269
 #, fuzzy
 msgid "holy water^Leave it"
-msgstr "Læfan hine"
+msgstr "Læfan hit"
 
 #: data/core/macros/items.cfg:270
 msgid "I am not suited to the use of this item! Let another take it."
@@ -2866,6 +2866,7 @@ msgid "unit_byte^B"
 msgstr ""
 
 #: src/addon/manager.cpp:440
+#, fuzzy
 msgid "addon_type^Campaign"
 msgstr "Fyrd"
 
@@ -4570,6 +4571,7 @@ msgid "Attack Enemy"
 msgstr ""
 
 #: src/mouse_events.cpp:889
+#, fuzzy
 msgid "Choose weapon:"
 msgstr "Ƿæpen ceosan:"
 
