@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-15 10:39+0100\n"
-"PO-Revision-Date: 2011-12-01 10:31-0500\n"
+"PO-Revision-Date: 2012-01-17 23:25-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -623,12 +623,12 @@ msgstr "Polisc Geþeodnes"
 #. [about]
 #: data/core/about.cfg:2386
 msgid "Portuguese Translation"
-msgstr ""
+msgstr "Portuglisc Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:2393
 msgid "Portuguese (Brazil) Translation"
-msgstr ""
+msgstr "Portuglisc (Brasil) Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:2435
