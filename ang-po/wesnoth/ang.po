@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: ang\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-15 10:39+0100\n"
-"PO-Revision-Date: 2011-12-15 23:22-0500\n"
+"PO-Revision-Date: 2012-01-19 15:22-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
-"Language: ang\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ang\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2\n"
 
 #. [advanced_preference]: type=boolean
@@ -324,7 +324,7 @@ msgstr ""
 #. [side]: id=Charlie, type=Orcish Grunt
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:53
 msgid "Enemies"
-msgstr ""
+msgstr "ᚷᛖᚹᛁᚾᚾᚪᚾ"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:73
@@ -429,15 +429,13 @@ msgstr "ᚾᛁᚹᛖ ᛖᛝᛚᛁᛋᚳ"
 
 #. [about]
 #: data/core/about.cfg:1234
-#, fuzzy
 msgid "Afrikaans Translation"
-msgstr "ᚪᚠᚠᚱᛁᚳᚪᚾᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᚪᚠᚠᚱᛁᚳᚪᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:1254
-#, fuzzy
 msgid "Arabic Translation"
-msgstr "ᚪᚱᚪᛒᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᚪᚱᚪᛒᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:1261
@@ -476,26 +474,25 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:1473
-#, fuzzy
 msgid "Danish Translation"
-msgstr "ᛞᛖᚾᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛞᛖᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:1504
 msgid "Dutch Translation"
-msgstr ""
+msgstr "ᚾᛁᚦᛖᚱᛚᛖᚾᛞᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:1568
 #, fuzzy
 msgid "English (GB) Translation"
-msgstr "ᚾᛁᚹᛖ ᛖᛝᛚᛁᛋᚳᚢ (ᚷᛒ) ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᚾᛁᚹᛖ ᛖᛝᛚᛁᛋᚳ (ᚷᛒ) ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:1590
 #, fuzzy
 msgid "English (Shaw) Translation"
-msgstr "ᚾᛁᚹᛖ ᛖᛝᛚᛁᛋᚳᚢ (ᛋᚻᚪᚹ) ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᚾᛁᚹᛖ ᛖᛝᛚᛁᛋᚳ (ᛋᚻᚪᚹ) ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:1614
@@ -514,9 +511,8 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:1653
-#, fuzzy
 msgid "Finnish Translation"
-msgstr "ᚠᛁᚾᚾᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᚠᛁᚾᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:1699
@@ -541,7 +537,7 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:1968
 msgid "Greek Translation"
-msgstr ""
+msgstr "ᚳᚱᛠᚳᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2005
@@ -555,9 +551,8 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2079
-#, fuzzy
 msgid "Icelandic Translation"
-msgstr "ᛁᛋᛚᛖᚾᛞᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛁᛋᛚᛖᚾᛞᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2089
@@ -566,20 +561,18 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2112
-#, fuzzy
 msgid "Irish Translation"
-msgstr "ᛁᚱᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛁᚱᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2119
 msgid "Italian Translation"
-msgstr ""
+msgstr "ᛁᛏᚪᛚᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2160
-#, fuzzy
 msgid "Japanese Translation"
-msgstr "ᛡᛈᚪᚾᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛁᚪᛈᚪᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2228
@@ -588,19 +581,18 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2236
-#, fuzzy
 msgid "Latin Translation"
-msgstr "ᛚᚫᛞᛖᚾᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛚᚫᛞᛖᚾᚢ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2263
 msgid "Latvian Translation"
-msgstr ""
+msgstr "ᛚᛖᛏᛏᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2274
 msgid "Lithuanian Translation"
-msgstr ""
+msgstr "ᛚᛁᚦᚦᚢᚪᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2296
@@ -615,38 +607,38 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:2312
 msgid "Norwegian Translation"
-msgstr ""
+msgstr "ᚾᚩᚱᚦᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2337
+#, fuzzy
 msgid "Old English Translation"
-msgstr ""
+msgstr "ᛖᛝᛚᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2346
-#, fuzzy
 msgid "Polish Translation"
-msgstr "ᛈᚩᛚᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛈᚩᛚᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2386
 msgid "Portuguese Translation"
-msgstr ""
+msgstr "ᛈᚩᚱᛏᚢᚷᛚᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2393
 msgid "Portuguese (Brazil) Translation"
-msgstr ""
+msgstr "ᛈᚩᚱᛏᚢᚷᛚᛁᛋᚳ (ᛒᚱᚪᛋᛁᛚ) ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2435
 msgid "Romanian Translation"
-msgstr ""
+msgstr "ᚱᚢᛗᚫᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2443
 msgid "Russian Translation"
-msgstr ""
+msgstr "ᚱᚢᛋᛋᛁᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2525
@@ -665,20 +657,19 @@ msgstr ""
 
 #. [about]
 #: data/core/about.cfg:2586
-#, fuzzy
 msgid "Spanish Translation"
-msgstr "ᛋᛈᛇᚾᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛋᛈᛇᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2656
 msgid "Swedish Translation"
-msgstr ""
+msgstr "ᛋᚹᛇᚾᛁᛋᚳ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2697
 #, fuzzy
 msgid "Turkish Translation"
-msgstr "ᛏᚢᚱᚳᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr "ᛏᚢᚱᚳᛁᛋᚳᚢ ᚷᛖᚦᛇᛞᚾᛖᛋ"
 
 #. [about]
 #: data/core/about.cfg:2719
@@ -1605,10 +1596,11 @@ msgid ""
 msgstr ""
 
 #: data/core/macros/names.cfg:77
+#, fuzzy
 msgid ""
 "Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,"
 "Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York"
-msgstr ""
+msgstr ", ,ᚳᚩᚱᚾ, ,ᛇᚱᛚ, ,ᚠᚩᛉ, ᚹᚫᛏᛖᚱ,ᚹᚫᛏ,ᛇᚠᚩᚱᚹᛁᚳ"
 
 #. [objective]: condition=lose
 #: data/core/macros/objective-utils.cfg:7
@@ -1701,6 +1693,7 @@ msgstr "ᛒᛚᚪᚹ"
 msgid "Green"
 msgstr "ᚷᚱᛖᚾᛖ"
 
+# TODO: try to find an English word for this...
 #. [color_range]: id=purple
 #. [color_range]: id=4
 #: data/core/team-colors.cfg:44 data/core/team-colors.cfg:101
@@ -1731,11 +1724,12 @@ msgstr "ᚷᛇᛚᚢᚻᚱᛠᛞ"
 msgid "White"
 msgstr "ᚻᚹᛁᛏ"
 
+# I guess we can call it 'blue-green'...
 #. [color_range]: id=teal
 #. [color_range]: id=9
 #: data/core/team-colors.cfg:74 data/core/team-colors.cfg:131
 msgid "Teal"
-msgstr ""
+msgstr "ᛒᛚᚪᚹᚷᚱᛖᚾᛖ"
 
 #. [language]
 #: data/english.cfg:3
@@ -1831,8 +1825,9 @@ msgstr ""
 
 #. [language]
 #: data/english.cfg:30
+#, fuzzy
 msgid "$name|bury,$name|ham,$name|ton,$name|bury"
-msgstr ""
+msgstr "$name|ᛒᚢᚱᚻ,$name|ᚻᚪᛗ,$name|ᛏᚢᚾ,$name|ᛒᚢᚱᚻ"
 
 #. [language]
 #: data/english.cfg:31
@@ -1847,38 +1842,49 @@ msgstr ""
 
 #. [language]
 #: data/english.cfg:33
+#, fuzzy
 msgid ""
 "$river|bridge,$river|bridge,$river|bridge,$name|ham,$name|bridge,$bridge|ham,"
 "$bridge|ton"
 msgstr ""
+"$river|ᛒᚱᚣᚳᚷ,$river|ᛒᚱᚣᚳᚷ,$river|ᛒᚱᚣᚳᚷ,$name|ᚻᚪᛗ,$name|ᛒᚱᚣᚳᚷ,$bridge|ᚻᚪᛗ,"
+"$bridge|ᛏᚢᚾ"
 
 #. [language]
 #: data/english.cfg:34
+#, fuzzy
 msgid "$name|ham,$name|ton,$name|field"
-msgstr ""
+msgstr "$name|ᚻᚪᛗ,$name|ᛏᚢᚾ,$name|ᚠᛖᛚᛞ"
 
+# TODO: do research on OE forest and woods names
 #. [language]
 #: data/english.cfg:35
+#, fuzzy
 msgid ""
 "$name|ham,$name|ton,$name|wood,$name Forest,$forest|wood,$forest|ham,$forest|"
 "ton"
 msgstr ""
+"$name|ᚻᚪᛗ,$name|ᛏᚢᚾ,$name|ᚹᚢᛞᚢ,$name ᚹᛠᛚᛞ,$forest|ᚹᚢᛞᚢ,$forest|ᚻᚪᛗ,$forest|"
+"ᛏᚢᚾ"
 
 #. [language]
 #: data/english.cfg:36
+#, fuzzy
 msgid "$name|ham,$name|bury,$name|ton,$name|hill,$name|crest"
-msgstr ""
+msgstr "$name|ᚻᚪᛗ,$name|ᛒᚢᚱᚻ,$name|ᛏᚢᚾ,$name|ᚻᚣᛚᛚ,"
 
 #. [language]
 #: data/english.cfg:37
+#, fuzzy
 msgid "$mountain|mont,$mountain|cliff,$mountain|bury,$mountain|ham"
-msgstr ""
+msgstr " ,$mountain|ᚳᛚᛁᚠ,$mountain|ᛒᚢᚱᚻ,$mountain|ᚻᚪᛗ"
 
 #. [language]
 #: data/english.cfg:38
+#, fuzzy
 msgid ""
 "$name|ham,$name|bury,$name|ton,$name|mont,$name|mont,$name|cliff,$name|cliff"
-msgstr ""
+msgstr "$name|ᚻᚪᛗ,$name|ᛒᚢᚱᚻ,$name|ᛏᚢᚾ, , , ,$name|ᚳᛚᛁᚠ,$name|ᚳᛚᛁᚠ"
 
 #. [language]
 #: data/english.cfg:39
@@ -1888,8 +1894,9 @@ msgstr ""
 
 #. [language]
 #: data/english.cfg:40
+#, fuzzy
 msgid "$name|bury,$name|ham,$name|ton,$swamp|bury,$swamp|ham,$swamp|ton,"
-msgstr ""
+msgstr "$name|ᛒᚢᚱᚻ,$name|ᚻᚪᛗ,$name|ᛏᚢᚾ,$swamp|ᛒᚢᚱᚻ,$swamp|ᚻᚪᛗ,$swamp|ᛏᚢᚾ"
 
 #. [language]
 #: data/english.cfg:43
@@ -1909,7 +1916,7 @@ msgstr ""
 #. [language]
 #: data/english.cfg:48
 msgid "pierce"
-msgstr ""
+msgstr "ᛋᛏᛁᚳᛖ"
 
 #. [language]
 #: data/english.cfg:49
@@ -1929,7 +1936,7 @@ msgstr "ᚳᛠᛚᛞ"
 #. [language]
 #: data/english.cfg:52
 msgid "arcane"
-msgstr ""
+msgstr "ᚱᚢᚾᛚᛁᚳ"
 
 #. [server]
 #: data/game_config.cfg:4
@@ -2535,11 +2542,11 @@ msgstr "ᚷᛖᚫᛏᚱᛖᛞᚢ"
 
 #: data/lua/wml-tags.lua:830 src/actions.cpp:1497
 msgid "female^slowed"
-msgstr ""
+msgstr "ᚷᛠᛋᛚᚫᚹᛖᛞᚢ"
 
 #: data/lua/wml-tags.lua:830 src/actions.cpp:1497
 msgid "slowed"
-msgstr ""
+msgstr "ᚷᛠᛋᛚᚫᚹᛖᛞ"
 
 #: data/lua/wml-tags.lua:831 src/actions.cpp:1502
 msgid "female^petrified"
@@ -2571,7 +2578,7 @@ msgstr ""
 
 #: data/lua/wml/objectives.lua:53
 msgid "Notes:"
-msgstr ""
+msgstr "ᚾᚩᛏᚪᛋ:"
 
 #: data/lua/wml/objectives.lua:71
 msgid "(%d turns left)"
@@ -2586,14 +2593,16 @@ msgid "%d%% of gold carried over to the next scenario."
 msgstr ""
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
+#. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label,
+#. id=the_icon, id=ok, id=cancel, id=flip, id=the_image
 #: data/scenario-test.cfg:460 src/dialogs.cpp:652
 #: src/multiplayer_create.cpp:94
 msgid "OK"
 msgstr "ᚷᛠᛏᚪᚾ"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
+#. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label,
+#. id=the_icon, id=ok, id=cancel, id=flip, id=the_image
 #: data/scenario-test.cfg:461 src/dialogs.cpp:653 src/dialogs.cpp:1091
 #: src/dialogs.cpp:1197 src/multiplayer_connect.cpp:1034
 #: src/multiplayer_create.cpp:93 src/multiplayer_wait.cpp:179
@@ -2608,7 +2617,7 @@ msgstr ""
 #. [language]
 #: data/scenario-test.cfg:3152
 msgid "electrical"
-msgstr "ᚷᚪᛥᚠᚣᚱ"
+msgstr "ᚷᚪᛋᛏᚠᚣᚱ"
 
 #. [menu]: id=menu-main
 #: data/themes/default.cfg:121 data/themes/dfool.cfg:140
@@ -2730,7 +2739,7 @@ msgstr ""
 #. [menu]: id=button-stopreplay, type=image
 #: data/themes/macros.cfg:80
 msgid "Stop"
-msgstr "ᛥᚩᛈᛈᛡᚾ"
+msgstr "ᛋᛏᚩᛈᛈᛁᚪᚾ"
 
 #. [menu]: id=button-stopreplay, type=image
 #: data/themes/macros.cfg:81
@@ -2774,9 +2783,8 @@ msgstr ""
 
 #. [menu]: id=skip-animation, type=checkbox
 #: data/themes/macros.cfg:147
-#, fuzzy
 msgid "Skip animation"
-msgstr "ᛋᛈᛇᚾᛁᛋᚳᚢ ᚦᛇᛞᚾᛖᛋ"
+msgstr ""
 
 #: src/about.cpp:204 src/menu_events.cpp:325 src/menu_events.cpp:352
 #: src/statistics_dialog.cpp:114
@@ -2850,6 +2858,7 @@ msgid "Part of 'Units sighted! (...)' sentence^1 enemy"
 msgid_plural "$enemies enemy"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: src/actions.cpp:2777
 msgid "Units sighted! ($friendphrase, $enemyphrase)"
@@ -3232,7 +3241,7 @@ msgstr ""
 
 #: src/attack_prediction_display.cpp:249
 msgid "Slowed"
-msgstr ""
+msgstr "ᚷᛠᛋᛚᚫᚹᛖᛞ"
 
 #: src/attack_prediction_display.cpp:254 src/reports.cpp:802
 msgid "Total damage"
@@ -3387,9 +3396,8 @@ msgid "Moves: "
 msgstr ""
 
 #: src/dialogs.cpp:1124
-#, fuzzy
 msgid "KB"
-msgstr "ᚳᛒ"
+msgstr ""
 
 #: src/game_config.cpp:326
 msgid "Invalid color range: "
@@ -3473,7 +3481,7 @@ msgstr ""
 
 #: src/game_events.cpp:181
 msgid "Error: "
-msgstr ""
+msgstr "ᚷᛖᛋᚹᛖᚦᚱᚢᛝ: "
 
 #: src/game_events.cpp:184
 msgid "Warning: "
@@ -3527,7 +3535,7 @@ msgstr[1] ""
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:306 src/multiplayer_lobby.cpp:560
 msgid "Fog"
-msgstr "ᛗᛁᛥ"
+msgstr "ᛗᛁᛋᛏ"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:309
 #: src/gui/dialogs/lobby/lobby_data.cpp:312 src/multiplayer_create.cpp:90
@@ -3541,8 +3549,9 @@ msgid "none"
 msgstr "ᚾᚪᚾ"
 
 #: src/gui/dialogs/lobby_player_info.cpp:98
+#, fuzzy
 msgid "In game:"
-msgstr ""
+msgstr "ᚩᚾ ᚷᚪᛗᛖᚾᛖ:"
 
 #: src/gui/dialogs/lobby_player_info.cpp:100
 msgid "(observing)"
@@ -3574,7 +3583,7 @@ msgstr "ᚦᚢ"
 
 #: src/gui/dialogs/lobby_player_info.cpp:147 src/multiplayer_create.cpp:560
 msgid "Error"
-msgstr ""
+msgstr "ᚷᛖᛋᚹᛖᚦᚱᚢᛝ"
 
 #: src/intro.cpp:44
 msgid "The End"
@@ -3794,7 +3803,7 @@ msgstr ""
 
 #: src/menu_events.cpp:513
 msgid "scenario settings^Fog"
-msgstr "ᛗᛁᛥ"
+msgstr "ᛗᛁᛋᛏ"
 
 #: src/menu_events.cpp:514
 msgid "scenario settings^Shroud"
@@ -3930,7 +3939,7 @@ msgstr ""
 
 #: src/menu_events.cpp:1858
 msgid "Search"
-msgstr ""
+msgstr "ᛋᛖᚳᚪᚾ"
 
 #: src/menu_events.cpp:2035
 msgid "This command is currently unavailable."
@@ -3954,7 +3963,7 @@ msgstr "[all|<ᚷᛖᛒᚩᛞᚢ>]"
 
 #: src/menu_events.cpp:2105
 msgid "Error:"
-msgstr ""
+msgstr "ᚷᛖᛋᚹᛖᚦᚱᚢᛝ:"
 
 #: src/menu_events.cpp:2111
 msgid "Missing argument $arg_id"
@@ -4009,8 +4018,6 @@ msgstr ""
 #: src/menu_events.cpp:2334 src/menu_events.cpp:2337 src/menu_events.cpp:2339
 #: src/menu_events.cpp:2341 src/menu_events.cpp:2343 src/menu_events.cpp:2370
 #: src/menu_events.cpp:2372 src/menu_events.cpp:2374 src/menu_events.cpp:2388
-#, fuzzy
-#| msgid "<nick>"
 msgid "<nickname>"
 msgstr "<ᛠᚳᚪᚾᚪᛗᚪ>"
 
@@ -4368,7 +4375,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2680 src/menu_events.cpp:2689
 msgid "error"
-msgstr ""
+msgstr "ᚷᛖᛋᚹᛖᚦᚱᚢᛝ"
 
 #: src/menu_events.cpp:2687
 msgid "Unknown debug domain: '$domain'."
@@ -4378,9 +4385,11 @@ msgstr ""
 msgid "Switched domain: '$domain' to level: '$level'."
 msgstr ""
 
+# Should we append a dative -e to what's inside of $receiver?
 #: src/menu_events.cpp:2767
+#, fuzzy
 msgid "whisper to $receiver"
-msgstr ""
+msgstr "ᚻᚹᛁᛋᛈᚱᛁᚪᚾ ᛏᚩ $receiver"
 
 #: src/menu_events.cpp:2774 src/multiplayer_ui.cpp:542
 msgid "whisper: $sender"
@@ -4756,7 +4765,7 @@ msgstr ""
 
 #: src/multiplayer_connect.cpp:1117 src/reports.cpp:155 src/savegame.cpp:722
 msgid "Name: "
-msgstr "ᚾᚪᛗᚪ:"
+msgstr "ᚾᚪᛗᚪ: "
 
 #: src/multiplayer_connect.cpp:1521
 msgid "Network Player"
@@ -4788,7 +4797,7 @@ msgstr ""
 
 #: src/multiplayer_create.cpp:56 src/multiplayer_lobby.cpp:742
 msgid "Create Game"
-msgstr "ᚷᚪᛗᛖᚾ ᛗᚪᚳᛡᚾ"
+msgstr "ᚷᚪᛗᛖᚾ ᛗᚪᚳᛁᚪᚾ"
 
 #: src/multiplayer_create.cpp:69
 msgid "Time limit"
@@ -4800,7 +4809,7 @@ msgstr "ᚷᚪᛗᛖᚾᛖᛋ ᚾᚪᛗᚪ:"
 
 #: src/multiplayer_create.cpp:85
 msgid "Era:"
-msgstr ""
+msgstr "ᛁᛖᛚᛞᚢ:"
 
 #: src/multiplayer_create.cpp:86
 msgid "Map to play:"
@@ -4816,7 +4825,7 @@ msgstr ""
 
 #: src/multiplayer_create.cpp:89
 msgid "Fog of war"
-msgstr "ᚹᛁᚷᛖᛋ ᛗᛁᛥ"
+msgstr "ᚹᛁᚷᛖᛋ ᛗᛁᛋᛏ"
 
 #: src/multiplayer_create.cpp:91
 msgid "Observers"
@@ -4959,8 +4968,10 @@ msgid "Action bonus: "
 msgstr ""
 
 #: src/multiplayer_create.cpp:423
+#, fuzzy
+#| msgid "Village"
 msgid "Village gold: "
-msgstr ""
+msgstr "ᚦᚩᚱᛈ"
 
 #: src/multiplayer_create.cpp:429
 msgid "Experience modifier: "
@@ -5004,7 +5015,7 @@ msgstr ""
 
 #: src/multiplayer_lobby.cpp:744
 msgid "Preferences"
-msgstr "ᚳᚩᛥᚪᛋ"
+msgstr "ᚳᚩᛋᛏᚪᛋ"
 
 #: src/multiplayer_lobby.cpp:745
 msgid "Quit"
@@ -5028,7 +5039,7 @@ msgstr ""
 
 #: src/multiplayer_lobby.cpp:750
 msgid "Search:"
-msgstr ""
+msgstr "ᛋᛖᚳᚪᚾ:"
 
 #: src/multiplayer_lobby.cpp:758
 msgid "Skip quickly to the active turn when observing"
@@ -5110,8 +5121,9 @@ msgstr ""
 #: src/multiplayer_wait.cpp:518
 msgid "multiplayer_starting_gold^Gold"
 msgid_plural "multiplayer_starting_gold^Gold"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ᚷᚩᛚᛞ"
+msgstr[1] "ᚷᚩᛚᛞ"
+msgstr[2] "ᚷᚩᛚᛞ"
 
 #: src/network.cpp:109
 msgid "invalid network handle"
@@ -5246,7 +5258,7 @@ msgstr ""
 
 #: src/playsingle_controller.cpp:269
 msgid "Gold: "
-msgstr "ᚷᚩᛚᛞ:"
+msgstr "ᚷᚩᛚᛞ: "
 
 #: src/playsingle_controller.cpp:273
 msgid "Carry over percentage: "
@@ -5374,7 +5386,7 @@ msgstr ""
 
 #: src/reports.cpp:309
 msgid "slowed: "
-msgstr ""
+msgstr "ᚷᛠᛋᛚᚫᚹᛖᛞ: "
 
 #: src/reports.cpp:310
 msgid ""
@@ -5462,7 +5474,7 @@ msgstr "ᛚᚪᛞᛋᚳᛁᛈᛖ: "
 
 #: src/reports.cpp:614
 msgid "Slowed: "
-msgstr ""
+msgstr "ᚷᛠᛋᛚᚫᚹᛖᛞ: "
 
 #: src/reports.cpp:618
 msgid "Attacks: "
@@ -5867,10 +5879,8 @@ msgid "female^lawful"
 msgstr ""
 
 #: src/unit_types.cpp:977
-#, fuzzy
-#| msgid "female^poisoned"
 msgid "female^liminal"
-msgstr "ᚷᛖᚫᛏᚱᛖᛞᚢ"
+msgstr ""
 
 #: src/unit_types.cpp:977
 msgid "female^neutral"
@@ -5896,14 +5906,11 @@ msgstr ""
 msgid "Whiteboard Options"
 msgstr ""
 
-#, fuzzy
 #~ msgid "B"
 #~ msgstr "ᛒ"
 
-#, fuzzy
 #~ msgid "MB"
 #~ msgstr "ᛗᛒ"
 
-#, fuzzy
 #~ msgid "GB"
 #~ msgstr "ᚷᛒ"
