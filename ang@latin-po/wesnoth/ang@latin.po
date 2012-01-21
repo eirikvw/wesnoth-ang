@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-01-21 14:19-0500\n"
+"PO-Revision-Date: 2012-01-21 14:45-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -859,14 +859,12 @@ msgid ""
 msgstr ""
 
 #: data/core/macros/items.cfg:268
-#, fuzzy
 msgid "holy water^Take it"
-msgstr "Niman hit"
+msgstr "Hit niman"
 
 #: data/core/macros/items.cfg:269
-#, fuzzy
 msgid "holy water^Leave it"
-msgstr "Læfan hit"
+msgstr "Hit læfan"
 
 #: data/core/macros/items.cfg:270
 msgid "I am not suited to the use of this item! Let another take it."
@@ -2763,7 +2761,6 @@ msgid "unit_byte^B"
 msgstr ""
 
 #: src/addon/manager.cpp:440
-#, fuzzy
 msgid "addon_type^Campaign"
 msgstr "Fyrd"
 
