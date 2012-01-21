@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-01-21 14:24-0500\n"
+"PO-Revision-Date: 2012-01-21 16:22-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang\n"
@@ -859,14 +859,12 @@ msgid ""
 msgstr ""
 
 #: data/core/macros/items.cfg:268
-#, fuzzy
 msgid "holy water^Take it"
-msgstr "ᚾᛁᛗᚪᚾ ᚻᛁᚾᛖ"
+msgstr "ᚻᛁᛏ ᚾᛁᛗᚪᚾ"
 
 #: data/core/macros/items.cfg:269
-#, fuzzy
 msgid "holy water^Leave it"
-msgstr "ᛚᚫᚠᚪᚾ ᚻᛁᚾᛖ"
+msgstr "ᚻᛁᛏ ᛚᚫᚠᚪᚾ"
 
 #: data/core/macros/items.cfg:270
 msgid "I am not suited to the use of this item! Let another take it."
