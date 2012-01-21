@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-01-19 17:15-0500\n"
+"PO-Revision-Date: 2012-01-21 14:19-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -1797,7 +1797,7 @@ msgstr ""
 #. [language]
 #: data/english.cfg:47
 msgid "blade"
-msgstr ""
+msgstr "ecg"
 
 #. [language]
 #: data/english.cfg:48
@@ -5802,7 +5802,6 @@ msgstr ""
 #~ msgid "Lord"
 #~ msgstr "Hlaford"
 
-#, fuzzy
 #~| msgid "Hard"
 #~ msgid "(Hard)"
 #~ msgstr "(Heard)"
