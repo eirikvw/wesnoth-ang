@@ -2,14 +2,15 @@
 # Copyright (C) 2011 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
-# Steven Panek <Majora700@gmail.com>, 2011
+# Steven Panek <Majora700@gmail.com>, 2011-2012
+# Eirik Westcoat <eirikvw@aim.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-07 17:23+0100\n"
-"PO-Revision-Date: 2012-01-13 15:22-0500\n"
-"Last-Translator: Eirik Westcoat <eirikvw@aim.com>\n"
+"POT-Creation-Date: 2011-12-15 10:39+0100\n"
+"PO-Revision-Date: 2012-01-21 15:39-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
 "MIME-Version: 1.0\n"
@@ -167,9 +168,11 @@ msgstr "pæl"
 msgid "battle axe"
 msgstr "beaduæx"
 
+# Espreon sayeth: "Maybe a bit too... poetic for something of this nature... or maybe that's just me..."
 #. [attack]: type=blade
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:47
 #: data/core/units/dwarves/Lord.cfg:69
+#, fuzzy
 msgid "hatchet"
 msgstr "ƿudubil"
 
@@ -257,10 +260,12 @@ msgid ""
 "than would be expected."
 msgstr ""
 
+# Espreon sayeth: "I'm not sure about this one... My sources say that 'stormsæ' should be used for 'stormy sea', so... blargh"
 #. [attack]: type=cold
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:44
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:60
 #: data/core/units/undead/Necro_Lich.cfg:60
+#, fuzzy
 msgid "chill tempest"
 msgstr "ciele stormsæ"
 
@@ -300,9 +305,9 @@ msgstr ""
 #: data/core/units/monsters/Giant_Spider.cfg:25
 #: data/core/units/monsters/Sea_Serpent.cfg:27
 #: data/core/units/monsters/Water_Serpent.cfg:44
-#: data/core/units/monsters/Wolf.cfg:50
-#: data/core/units/monsters/Wolf_Dire.cfg:34
-#: data/core/units/monsters/Wolf_Great.cfg:34
+#: data/core/units/monsters/Wolf.cfg:49
+#: data/core/units/monsters/Wolf_Dire.cfg:33
+#: data/core/units/monsters/Wolf_Great.cfg:33
 msgid "fangs"
 msgstr "fængteþ"
 
@@ -1486,8 +1491,10 @@ msgid ""
 "fighters to strive harder and longer before they die."
 msgstr ""
 
+# Espreon sayeth: "Hmmm, not sure on 'æscmann' for this one. My sources point to something more... nautical, like a pirate or a sailor... and these guys aren't very nautical so... yeah.. If possible, maybe use something that sounds more pathetic since goblin spearmen are pathetic level naught units."
 #. [unit_type]: id=Goblin Spearman, race=goblin
 #: data/core/units/goblins/Spearman.cfg:4
+#, fuzzy
 msgid "Goblin Spearman"
 msgstr "Puca Æscmann"
 
@@ -1589,11 +1596,13 @@ msgstr ""
 msgid "longsword"
 msgstr "langsƿeord"
 
+# Espreon sayeth: "I'd prefer not to have conflicting terms..."
 #. [attack]: type=pierce
 #: data/core/units/humans/Horse_Grand_Knight.cfg:45
 #: data/core/units/humans/Horse_Knight.cfg:44
 #: data/core/units/humans/Horse_Lancer.cfg:36
 #: data/core/units/humans/Horse_Paladin.cfg:61
+#, fuzzy
 msgid "lance"
 msgstr "gar"
 
@@ -1656,8 +1665,10 @@ msgid ""
 "unnatural things, and most have some skill at medicine and healing."
 msgstr ""
 
+# Espreon sayeth: "Lots of consideration needs to be put in the names of the units of this unit tree."
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:4
+#, fuzzy
 msgid "Horseman"
 msgstr "Eoredmann"
 
@@ -1673,6 +1684,7 @@ msgid ""
 "provide inviting targets."
 msgstr ""
 
+# Espreon sayeth: "Although this term is probably valid, perhaps we should see if it's attested."
 #. [unit_type]: id=Bowman, race=human
 #: data/core/units/humans/Loyalist_Bowman.cfg:4
 msgid "Bowman"
@@ -1708,6 +1720,9 @@ msgid ""
 "Cavaliers are the subject of many a tale and song."
 msgstr ""
 
+# TODO: do research on this
+#  
+# Espreon sayeth: "Hmmm, although the only extensive etymology I've seen for 'crossbow' says that 'crossbow' is a compound of 'cross' (as in rood) and 'bow', so this should work, but who knows?"
 #. [attack]: type=pierce
 #. [attack]: type=fire
 #: data/core/units/humans/Loyalist_Cavalier.cfg:59
@@ -1780,10 +1795,12 @@ msgid ""
 "to utility and survival."
 msgstr ""
 
+# Espreons sayeth: "I'm not so sure on this one... but we probably won't find a good term for this, but who knows?"
 #. [attack]: type=blade
 #: data/core/units/humans/Loyalist_Duelist.cfg:85
 #: data/core/units/humans/Loyalist_Fencer.cfg:175
 #: data/core/units/humans/Loyalist_Master_at_Arms.cfg:44
+#, fuzzy
 msgid "saber"
 msgstr "seax"
 
@@ -2152,6 +2169,7 @@ msgid ""
 "lightly."
 msgstr ""
 
+# Espreon sayeth: "Hmmm,  does the 'þ' in 'þoðor' become voiced since it's between two voiced sounds?"
 #. [attack]: type=fire
 #: data/core/units/humans/Mage_Arch.cfg:90
 #: data/core/units/humans/Mage_Great.cfg:51
@@ -2420,6 +2438,7 @@ msgid ""
 "especially under cover of darkness."
 msgstr ""
 
+# Espreon sayeth: "Where'd ya get this one? Bosworth-Toller isn't sure on this one and it implies 'sceptre', so... hmmm..."
 #. [attack]: type=impact
 #: data/core/units/humans/Outlaw_Footpad.cfg:38
 #: data/core/units/humans/Outlaw_Ruffian.cfg:36
@@ -2427,6 +2446,7 @@ msgstr ""
 #: data/core/units/merfolk/Entangler.cfg:26
 #: data/core/units/merfolk/Netcaster.cfg:37
 #: data/core/units/trolls/Troll.cfg:37
+#, fuzzy
 msgid "club"
 msgstr "casebill"
 
@@ -2896,6 +2916,7 @@ msgid ""
 "tridents, they are a bane to any who dare enter their waters."
 msgstr ""
 
+# Espreon sayeth: "I'd just love to know the morphemes of this word!"
 #. [unit_type]: id=Cuttle Fish, race=monster
 #: data/core/units/monsters/Cuttle_Fish.cfg:4
 msgid "Cuttle Fish"
@@ -3038,7 +3059,7 @@ msgstr ""
 #. [unit_type]: id=Giant Spider, race=monster
 #: data/core/units/monsters/Giant_Spider.cfg:4
 msgid "Giant Spider"
-msgstr "Great Lobbe"
+msgstr "Great Spiðra"
 
 #. [unit_type]: id=Giant Spider, race=monster
 #: data/core/units/monsters/Giant_Spider.cfg:20
@@ -3130,9 +3151,9 @@ msgstr "Ƿulf"
 #. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Direwolf, race=wolf
 #. [unit_type]: id=Great Wolf, race=wolf
-#: data/core/units/monsters/Wolf.cfg:35
-#: data/core/units/monsters/Wolf_Dire.cfg:19
-#: data/core/units/monsters/Wolf_Great.cfg:19
+#: data/core/units/monsters/Wolf.cfg:34
+#: data/core/units/monsters/Wolf_Dire.cfg:18
+#: data/core/units/monsters/Wolf_Great.cfg:18
 msgid ""
 "Wolves are aggressive animals that hunt in packs. Although weak "
 "individually, a wolf pack can kill even the strongest man in minutes."
@@ -3726,6 +3747,7 @@ msgid ""
 "of combat can waken them, though, making them far more formidable."
 msgstr ""
 
+# Note: a compound of "æt" and "hrine", so don't change the "th" to thorn.
 #. [attack]: type=impact
 #. [attack]: type=arcane
 #: data/core/units/undead/Corpse_Soulless.cfg:26
@@ -3751,6 +3773,7 @@ msgstr ""
 
 #. [unit_type]: id=Ancient Lich, race=undead
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:4
+#, fuzzy
 msgid "Ancient Lich"
 msgstr "Eald Lic"
 
@@ -3843,8 +3866,10 @@ msgid ""
 "the merest desire for power."
 msgstr ""
 
+# Espreon sayeth: "I'm not so sure 'lic' should be used for this type of being..."
 #. [unit_type]: id=Lich, race=undead
 #: data/core/units/undead/Necro_Lich.cfg:4
+#, fuzzy
 msgid "Lich"
 msgstr "Lic"
 

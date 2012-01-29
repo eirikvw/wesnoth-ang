@@ -2,13 +2,14 @@
 # Copyright (C) 2011 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
-# Steven Panek <Majora700@gmail.com>, 2011
+# Steven Panek <Majora700@gmail.com>, 2011-2012
+# Eirik Westcoat <eirikvw@aim.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: ang\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2011-07-23 16:56-0500\n"
+"POT-Creation-Date: 2012-01-08 18:12+0100\n"
+"PO-Revision-Date: 2011-12-01 07:52-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang\n"
@@ -101,10 +102,8 @@ msgstr ""
 #. [terrain_type]: id=leaf_litter
 #: data/core/terrain.cfg:152 data/core/terrain.cfg:163
 #: data/core/terrain.cfg:174 data/core/terrain.cfg:184
-#, fuzzy
-#| msgid "Island"
 msgid "Grassland"
-msgstr "ᛁᛖᚷᛚᚪᚾᛞ"
+msgstr ""
 
 #. [terrain_type]: id=grassland
 #: data/core/terrain.cfg:153
@@ -137,7 +136,7 @@ msgstr "ᛇᚱᚦᛖ"
 #. [terrain_type]: id=dirt_dark
 #: data/core/terrain.cfg:197
 msgid "Dark Dirt"
-msgstr "ᛞᛇᚱᚳᚢ ᛇᚱᚦᛖ"
+msgstr "ᛞᛁᛗᛗᚢ ᛇᚱᚦᛖ"
 
 #. [terrain_type]: id=dirt
 #: data/core/terrain.cfg:207
@@ -158,7 +157,7 @@ msgstr "ᛞᚱᚣᚷᛖᚢ ᛇᚱᚦᛖ"
 #: data/core/terrain.cfg:246 data/core/terrain.cfg:845
 #: data/core/terrain.cfg:855
 msgid "Road"
-msgstr ""
+msgstr "ᚱᚪᛞ"
 
 #. [terrain_type]: id=road
 #: data/core/terrain.cfg:227
@@ -218,7 +217,7 @@ msgstr ""
 #. [terrain_type]: id=crater
 #: data/core/terrain.cfg:323
 msgid "Crater"
-msgstr ""
+msgstr "ᚳᚪᚾᚾᛖ"
 
 #. [terrain_type]: id=flowers_mixed
 #: data/core/terrain.cfg:337
@@ -233,7 +232,7 @@ msgstr ""
 #. [terrain_type]: id=stones_small
 #: data/core/terrain.cfg:355
 msgid "Stones"
-msgstr "ᛥᚪᚾᚪᛋ"
+msgstr "ᛋᛏᚪᚾᚪᛋ"
 
 #. [terrain_type]: id=mushrooms_small
 #: data/core/terrain.cfg:364
@@ -256,10 +255,9 @@ msgid "Desert Plants without Bones"
 msgstr ""
 
 #. [terrain_type]: id=windmill
-#. [terrain_type]: id=windmill_village
-#: data/core/terrain.cfg:400 data/core/terrain.cfg:1279
+#: data/core/terrain.cfg:400
 msgid "Windmill"
-msgstr ""
+msgstr "ᚹᛁᚾᛞᛗᚣᛚᛖᚾ"
 
 #. [terrain_type]: id=fence
 #: data/core/terrain.cfg:409
@@ -290,10 +288,8 @@ msgstr "ᚷᚱᛠᛏ ᛏᚱᛇᚹ"
 
 #. [terrain_type]: id=great_tree_dead
 #: data/core/terrain.cfg:464
-#, fuzzy
-#| msgid "Great Tree"
 msgid "Dead Great Tree"
-msgstr "ᚷᚱᛠᛏ ᛏᚱᛇᚹ"
+msgstr "ᛞᛠᛞ ᚷᚱᛠᛏ ᛏᚱᛇᚹ"
 
 #. [terrain_type]: id=tropical_forest
 #. [terrain_type]: id=pine_forest
@@ -412,7 +408,7 @@ msgstr ""
 #. [terrain_type]: id=snow_hills
 #: data/core/terrain.cfg:641
 msgid "Snow Hills"
-msgstr ""
+msgstr "ᛋᚾᚪᚹᛁᚷᛖ ᚻᚣᛚᛚᚪᛋ"
 
 #. [terrain_type]: id=mountains
 #. [terrain_type]: id=desert_mountains
@@ -510,12 +506,12 @@ msgstr "ᛚᛇᛗᚪ"
 #. [terrain_type]: id=cave_earthy
 #: data/core/terrain.cfg:826 data/core/terrain.cfg:835
 msgid "Cave"
-msgstr ""
+msgstr "ᛋᚳᚱᚫᚠ"
 
 #. [terrain_type]: id=cave
 #: data/core/terrain.cfg:827
 msgid "Cave Floor"
-msgstr ""
+msgstr "ᛋᚳᚱᚫᚠ ᚠᛚᚩᚱ"
 
 #. [terrain_type]: id=cave_earthy
 #: data/core/terrain.cfg:836
@@ -530,7 +526,7 @@ msgstr ""
 #. [terrain_type]: id=cave_path
 #: data/core/terrain.cfg:856
 msgid "Cave Path"
-msgstr ""
+msgstr "ᛋᚳᚱᚫᚠ ᛈᚫᚦ"
 
 #. [terrain_type]: id=fungus
 #. [terrain_type]: id=fungus_beam
@@ -588,7 +584,7 @@ msgstr ""
 #. [terrain_type]: id=lava
 #: data/core/terrain.cfg:983
 msgid "Lava"
-msgstr "ᚱᚪᚱᛖᚾᛞᛖᛥᚪᚾ"
+msgstr "ᚱᚪᚱᛖᚾᛞᛖᛋᛏᚪᚾ"
 
 #. [terrain_type]: id=volcano
 #: data/core/terrain.cfg:994
@@ -616,10 +612,8 @@ msgstr ""
 #. [terrain_type]: id=cavewall_earthy_hewn
 #: data/core/terrain.cfg:1039 data/core/terrain.cfg:1050
 #: data/core/terrain.cfg:1061 data/core/terrain.cfg:1072
-#, fuzzy
-#| msgid "Stone Wall"
 msgid "Cave Wall"
-msgstr "ᛥᚫᚾᛖᚾ ᚹᛠᛚᛚ"
+msgstr "ᛋᚳᚱᚫᚠ ᚹᛠᛚᛚ"
 
 #. [terrain_type]: id=cavewall
 #: data/core/terrain.cfg:1040
@@ -645,7 +639,7 @@ msgstr ""
 #. [terrain_type]: id=wall_stone_lit
 #: data/core/terrain.cfg:1083 data/core/terrain.cfg:1093
 msgid "Stone Wall"
-msgstr "ᛥᚫᚾᛖᚾ ᚹᛠᛚᛚ"
+msgstr "ᛋᛏᚫᚾᛖᚾ ᚹᛠᛚᛚ"
 
 #. [terrain_type]: id=wall_stone_lit
 #: data/core/terrain.cfg:1094
@@ -675,6 +669,7 @@ msgstr ""
 #. [terrain_type]: id=snow_village
 #. [terrain_type]: id=human_village_ruin
 #. [terrain_type]: id=city_village
+#. [terrain_type]: id=windmill_village
 #. [terrain_type]: id=city_village_wno
 #. [terrain_type]: id=hill_village
 #. [terrain_type]: id=snow-hill_village
@@ -697,16 +692,16 @@ msgstr ""
 #: data/core/terrain.cfg:1184 data/core/terrain.cfg:1199
 #: data/core/terrain.cfg:1212 data/core/terrain.cfg:1227
 #: data/core/terrain.cfg:1240 data/core/terrain.cfg:1253
-#: data/core/terrain.cfg:1266 data/core/terrain.cfg:1292
-#: data/core/terrain.cfg:1305 data/core/terrain.cfg:1318
-#: data/core/terrain.cfg:1331 data/core/terrain.cfg:1344
-#: data/core/terrain.cfg:1357 data/core/terrain.cfg:1370
-#: data/core/terrain.cfg:1385 data/core/terrain.cfg:1398
-#: data/core/terrain.cfg:1411 data/core/terrain.cfg:1424
-#: data/core/terrain.cfg:1437 data/core/terrain.cfg:1450
-#: data/core/terrain.cfg:1463 data/core/terrain.cfg:1478
-#: data/core/terrain.cfg:1491 data/core/terrain.cfg:1506
-#: data/core/terrain.cfg:2137
+#: data/core/terrain.cfg:1266 data/core/terrain.cfg:1279
+#: data/core/terrain.cfg:1292 data/core/terrain.cfg:1305
+#: data/core/terrain.cfg:1318 data/core/terrain.cfg:1331
+#: data/core/terrain.cfg:1344 data/core/terrain.cfg:1357
+#: data/core/terrain.cfg:1370 data/core/terrain.cfg:1385
+#: data/core/terrain.cfg:1398 data/core/terrain.cfg:1411
+#: data/core/terrain.cfg:1424 data/core/terrain.cfg:1437
+#: data/core/terrain.cfg:1450 data/core/terrain.cfg:1463
+#: data/core/terrain.cfg:1478 data/core/terrain.cfg:1491
+#: data/core/terrain.cfg:1506 data/core/terrain.cfg:2137
 msgid "Village"
 msgstr "ᚦᚩᚱᛈ"
 
@@ -768,10 +763,8 @@ msgstr "ᛗᛖᚾᚾᛁᛋᚳᚢ ᛒᚢᚱᚷ"
 
 #. [terrain_type]: id=windmill_village
 #: data/core/terrain.cfg:1280
-#, fuzzy
-#| msgid "Village"
 msgid "Windmill Village"
-msgstr "ᚦᚩᚱᛈ"
+msgstr "ᚹᛁᚾᛞᛗᚣᛚᛖᚾ ᚦᚩᚱᛈ"
 
 #. [terrain_type]: id=city_village_wno
 #: data/core/terrain.cfg:1293
@@ -1129,7 +1122,7 @@ msgstr ""
 #. [terrain_type]: id=fog
 #: data/core/terrain.cfg:2075
 msgid "Fog"
-msgstr "ᛗᛁᛥ"
+msgstr "ᛗᛁᛋᛏ"
 
 #. [terrain_type]: id=flat
 #: data/core/terrain.cfg:2116
@@ -1149,6 +1142,21 @@ msgstr ""
 #. [terrain_type]: id=unwalkable
 #: data/core/terrain.cfg:2151
 msgid "Unwalkable"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=click_dismiss
+#. [button]: id=ok
+#. [button]: id=cancel
+#. [button]: id=close_window
+#: data/gui/default/widget/window_default.cfg:140
+#: data/gui/default/window/chat_log.cfg:121
+#: data/gui/default/window/gamestate_inspector.cfg:339
+#: data/gui/default/window/lobby_main.cfg:619
+#: data/gui/default/window/lobby_player_info.cfg:200
+#: data/gui/default/window/message.cfg:133 src/construct_dialog.cpp:134
+#: src/mapgen_dialog.cpp:110 src/preferences_display.cpp:272
+msgid "Close"
 msgstr ""
 
 #. [label]
@@ -1252,7 +1260,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/addon_description.cfg:212
 msgid "Translations:"
-msgstr "ᚦᛇᛞᚾᛖᛋᛋᚪ:"
+msgstr "ᚷᛖᚦᛇᛞᚾᛖᛋᛋᚪ:"
 
 #. [scroll_label]: id=translations
 #: data/gui/default/window/addon_description.cfg:226
@@ -1305,8 +1313,8 @@ msgstr ""
 #: data/gui/default/window/simple_item_selector.cfg:146
 #: data/gui/default/window/unit_create.cfg:197
 #: data/gui/default/window/unit_create.cfg:198
-#: data/gui/default/window/wml_message.cfg:478
-#: data/gui/default/window/wml_message.cfg:707 src/construct_dialog.cpp:120
+#: data/gui/default/window/wml_message.cfg:485
+#: data/gui/default/window/wml_message.cfg:714 src/construct_dialog.cpp:120
 #: src/construct_dialog.cpp:127 src/gui/dialogs/message.cpp:162
 #: src/gui/dialogs/message.cpp:169
 msgid "OK"
@@ -1321,6 +1329,39 @@ msgstr ""
 #: data/gui/default/window/campaign_difficulty.cfg:77
 msgid "Select difficulty level:"
 msgstr ""
+
+#. [label]
+#: data/gui/default/window/chat_log.cfg:38
+msgid "Chat Log"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/chat_log.cfg:56
+msgid "Page:"
+msgstr ""
+
+#. [slider]: id=page_number
+#: data/gui/default/window/chat_log.cfg:69
+msgid "Last"
+msgstr ""
+
+#. [button]: id=previous_page
+#. [button]: id=previous_tip
+#: data/gui/default/window/chat_log.cfg:79
+#: data/gui/default/window/title_screen.cfg:162
+msgid "Previous"
+msgstr ""
+
+#. [button]: id=next_tod
+#. [button]: id=next_page
+#. [button]: id=next_tip
+#: data/gui/default/window/chat_log.cfg:89
+#: data/gui/default/window/editor_settings.cfg:79
+#: data/gui/default/window/editor_settings.cfg:80
+#: data/gui/default/window/title_screen.cfg:177
+#, fuzzy
+msgid "Next"
+msgstr "ᚾᛁᛖᚻᛋᛏ"
 
 #. [label]: id=lblTitle
 #: data/gui/default/window/data_manage.cfg:50
@@ -1357,7 +1398,7 @@ msgstr ""
 #: data/gui/default/window/data_manage.cfg:266
 #: data/gui/default/window/data_manage.cfg:267
 msgid "Clear"
-msgstr "ᛒᛖᚱᛡᚾ"
+msgstr "ᛒᛖᚱᛁᚪᚾ"
 
 #. [button]: id=restore
 #: data/gui/default/window/data_manage.cfg:283
@@ -1429,8 +1470,10 @@ msgstr "ᚻᛁᛖᚻᚦᚢ:"
 #. [button]: id=ok
 #: data/gui/default/window/editor_new_map.cfg:108
 #: data/gui/default/window/editor_new_map.cfg:109
+#, fuzzy
+#| msgid "Create Game"
 msgid "Create New Map"
-msgstr ""
+msgstr "ᚷᚪᛗᛖᚾ ᛗᚪᚳᛁᚪᚾ"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -1491,15 +1534,6 @@ msgstr ""
 #: data/gui/default/window/editor_settings.cfg:53
 msgid "Time of day lighting preset:"
 msgstr ""
-
-#. [button]: id=next_tod
-#. [button]: id=next_tip
-#: data/gui/default/window/editor_settings.cfg:79
-#: data/gui/default/window/editor_settings.cfg:80
-#: data/gui/default/window/title_screen.cfg:177
-#, fuzzy
-msgid "Next"
-msgstr "ᚾᛁᛖᚻᛥ"
 
 #. [toggle_button]: id=custom_tod_toggle
 #: data/gui/default/window/editor_settings.cfg:104
@@ -1687,7 +1721,7 @@ msgstr ""
 #. [label]: id=lblMessage
 #: data/gui/default/window/game_save_message.cfg:60
 msgid "x"
-msgstr "x"
+msgstr "ᛉ"
 
 #. [label]: id=lblMessage
 #: data/gui/default/window/game_save_oos.cfg:62
@@ -1703,7 +1737,7 @@ msgstr ""
 #. [button]: id=quit_game
 #: data/gui/default/window/game_save_oos.cfg:170 src/hotkeys.cpp:94
 msgid "Quit Game"
-msgstr ""
+msgstr "ᚷᚪᛗᛖᚾ ᛚᚫᚠᚪᚾ"
 
 #. [label]: id=lblTitle
 #: data/gui/default/window/game_save_overwrite.cfg:40
@@ -1745,18 +1779,6 @@ msgstr ""
 #. [label]: id=name
 #: data/gui/default/window/gamestate_inspector.cfg:214
 msgid "Variable"
-msgstr ""
-
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
-#. [button]: id=ok
-#. [button]: id=cancel
-#. [button]: id=close_window
-#: data/gui/default/window/gamestate_inspector.cfg:339
-#: data/gui/default/window/lobby_main.cfg:619
-#: data/gui/default/window/lobby_player_info.cfg:200
-#: data/gui/default/window/message.cfg:133 src/construct_dialog.cpp:134
-#: src/mapgen_dialog.cpp:110 src/preferences_display.cpp:272
-msgid "Close"
 msgstr ""
 
 #. [grid]
@@ -1918,7 +1940,7 @@ msgstr "ᛋᛖᚾᛞᚪᚾ"
 #: data/gui/default/window/title_screen.cfg:230
 #: src/game_preferences_display.cpp:64 src/hotkeys.cpp:88
 msgid "Preferences"
-msgstr "ᚳᚩᛥᚪᛋ"
+msgstr "ᚳᚩᛋᛏᚪᛋ"
 
 #. [button]: id=refresh
 #: data/gui/default/window/lobby_main.cfg:672
@@ -1930,7 +1952,7 @@ msgstr ""
 #: data/gui/default/window/lobby_main.cfg:686
 #: data/gui/default/window/mp_create_game.cfg:41
 msgid "Create Game"
-msgstr "ᚷᚪᛗᛖᚾ ᛗᚪᚳᛡᚾ"
+msgstr "ᚷᚪᛗᛖᚾ ᛗᚪᚳᛁᚪᚾ"
 
 #. [button]: id=join_global
 #: data/gui/default/window/lobby_main.cfg:692
@@ -1959,10 +1981,8 @@ msgstr ""
 
 #. [button]: id=add_to_friends
 #: data/gui/default/window/lobby_player_info.cfg:99
-#, fuzzy
-#| msgid "Friends"
 msgid "Add to Friends"
-msgstr "ᚠᚱᛁᛖᚾᛞ"
+msgstr ""
 
 #. [button]: id=add_to_ignores
 #: data/gui/default/window/lobby_player_info.cfg:108
@@ -2012,8 +2032,6 @@ msgstr ""
 
 #. [label]: id=nick_title
 #: data/gui/default/window/mp_change_control.cfg:73
-#, fuzzy
-#| msgid "Nick"
 msgid "Nickname"
 msgstr "ᛠᚳᚪᚾᚪᛗᚪ"
 
@@ -2044,10 +2062,8 @@ msgstr ""
 
 #. [button]: id=add_friend
 #: data/gui/default/window/mp_cmd_wrapper.cfg:170
-#, fuzzy
-#| msgid "Friends"
 msgid "Add as Friend"
-msgstr "ᚠᚱᛁᛖᚾᛞ"
+msgstr ""
 
 #. [button]: id=add_ignore
 #: data/gui/default/window/mp_cmd_wrapper.cfg:185
@@ -2110,7 +2126,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/mp_create_game.cfg:185
 msgid "Era:"
-msgstr ""
+msgstr "ᛁᛖᛚᛞᚢ:"
 
 #. [button]: id=era
 #: data/gui/default/window/mp_create_game.cfg:204
@@ -2147,7 +2163,7 @@ msgstr ""
 #. [toggle_button]: id=fog
 #: data/gui/default/window/mp_create_game.cfg:460
 msgid "Fog of war"
-msgstr "ᚹᛁᚷᛖᛋ ᛗᛁᛥ"
+msgstr "ᚹᛁᚷᛖᛋ ᛗᛁᛋᛏ"
 
 #. [toggle_button]: id=random_start_time
 #: data/gui/default/window/mp_create_game.cfg:501
@@ -2157,7 +2173,7 @@ msgstr ""
 #. [button]: id=ok
 #: data/gui/default/window/mp_create_game.cfg:543
 msgid "Create game"
-msgstr "ᚷᚪᛗᛖᚾ ᛗᚪᚳᛡᚾ"
+msgstr "ᚷᚪᛗᛖᚾ ᛗᚪᚳᛁᚪᚾ"
 
 #. [scroll_label]: id=message
 #: data/gui/default/window/mp_create_game_set_password.cfg:61
@@ -2271,11 +2287,6 @@ msgstr "ᚻᛖᛚᛈ"
 #. [button]: id=help
 #: data/gui/default/window/title_screen.cfg:147
 msgid "Show Battle for Wesnoth help"
-msgstr ""
-
-#. [button]: id=previous_tip
-#: data/gui/default/window/title_screen.cfg:162
-msgid "Previous"
 msgstr ""
 
 #. [button]: id=previous_tip
@@ -2424,19 +2435,19 @@ msgstr ""
 msgid "Creation of the directory failed."
 msgstr ""
 
-#: src/game_preferences.cpp:290
+#: src/game_preferences.cpp:315
 msgid "No server has been defined."
 msgstr ""
 
-#: src/game_preferences.cpp:346
+#: src/game_preferences.cpp:395
 msgid "player"
 msgstr ""
 
-#: src/game_preferences.cpp:777
+#: src/game_preferences.cpp:837
 msgid "%H:%M"
 msgstr ""
 
-#: src/game_preferences.cpp:780
+#: src/game_preferences.cpp:840
 msgid "%I:%M %p"
 msgstr ""
 
@@ -2606,8 +2617,10 @@ msgid "Volume:"
 msgstr "ᚻᛚᚢᛞᚾᛖᛋ:"
 
 #: src/game_preferences_display.cpp:224
+#, fuzzy
+#| msgid "Speed: "
 msgid "Scroll speed:"
-msgstr ""
+msgstr "ᚩᚠᚩᛋᛏ: "
 
 #: src/game_preferences_display.cpp:227
 msgid "Sample rate (Hz):"
@@ -2829,10 +2842,10 @@ msgstr ""
 
 #: src/game_preferences_display.cpp:760
 msgid "Speed: "
-msgstr "ᚩᚠᚩᛥ: "
+msgstr "ᚩᚠᚩᛋᛏ: "
 
 #: src/game_preferences_display.cpp:765 src/game_preferences_display.cpp:767
-msgid "Maximum Auto-Saves: "
+msgid "Maximum auto-saves: "
 msgstr ""
 
 #: src/game_preferences_display.cpp:765
@@ -3041,8 +3054,9 @@ msgid "Version: "
 msgstr ""
 
 #: src/gui/dialogs/lobby_main.cpp:230
+#, fuzzy
 msgid "whisper to $receiver"
-msgstr ""
+msgstr "ᚻᚹᛁᛋᛈᚱᛁᚪᚾ ᛏᚩ $receiver"
 
 #: src/gui/dialogs/lobby_main.cpp:662
 msgid "Games: showing $num_shown out of $num_total"
@@ -3088,7 +3102,7 @@ msgstr ""
 
 #: src/gui/dialogs/message.cpp:190 src/gui/dialogs/transient_message.cpp:62
 msgid "Error"
-msgstr ""
+msgstr "ᚷᛖᛋᚹᛖᚦᚱᚢᛝ"
 
 #: src/gui/dialogs/mp_change_control.cpp:244
 msgid "Side $side"
@@ -3136,7 +3150,7 @@ msgstr ""
 msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
 msgstr ""
 
-#: src/gui/widgets/window.cpp:949 src/gui/widgets/window.cpp:982
+#: src/gui/widgets/window.cpp:949 src/gui/widgets/window.cpp:989
 #: src/tests/gui/test_gui2.cpp:432
 msgid "Failed to show a dialog, which doesn't fit on the screen."
 msgstr ""
@@ -3171,7 +3185,7 @@ msgstr ""
 
 #: src/hotkeys.cpp:60
 msgid "Leader"
-msgstr ""
+msgstr "ᛚᚫᛞᛖᚱᛖ"
 
 #: src/hotkeys.cpp:61
 msgid "Undo"
@@ -3568,7 +3582,7 @@ msgstr ""
 #: src/hotkeys.cpp:201
 #, fuzzy
 msgid "Speak to All"
-msgstr "ᛋᛈᚱᛖᚳᚪᚾ ᛏᚩ ᛠᛚᛚ"
+msgstr "ᛋᛈᚱᛖᚳᚪᚾ ᛏᚩ ᛠᛚᛚᚢᛗ"
 
 #: src/hotkeys.cpp:203
 msgid "View Chat Log"
@@ -3607,10 +3621,8 @@ msgid "Start Tutorial"
 msgstr ""
 
 #: src/hotkeys.cpp:241
-#, fuzzy
-#| msgid "Start a campaign"
 msgid "Start Campaign"
-msgstr "ᚠᚣᚱᛞ ᛥᚣᚱᛏᚪᚾ"
+msgstr "ᚠᚣᚱᛞ ᛋᛏᚣᚱᛏᚪᚾ"
 
 #: src/hotkeys.cpp:248
 msgid "Start Multiplayer Game"
@@ -3654,7 +3666,7 @@ msgstr ""
 #. other's resources rather than duplicating them. For example,
 #. Swedish (sv) and Danish (da) are such, so Swedish translator could
 #. translate this message as "sv,da", while Danish as "da,sv".
-#: src/image.cpp:403
+#: src/image.cpp:421
 msgid "language code for localized resources^en_US"
 msgstr "ang"
 
@@ -3811,7 +3823,7 @@ msgid ""
 msgstr ""
 
 #~ msgid "Stop"
-#~ msgstr "ᛥᚩᛈᛈᛡᚾ"
+#~ msgstr "ᛋᛏᚩᛈᛈᛁᚪᚾ"
 
 #~ msgid "Name: "
 #~ msgstr "ᚾᚪᛗᚪ: "
