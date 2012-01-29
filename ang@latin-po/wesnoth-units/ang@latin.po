@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-15 10:39+0100\n"
-"PO-Revision-Date: 2012-01-21 15:39-0500\n"
+"PO-Revision-Date: 2012-01-28 20:14-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -1721,7 +1721,7 @@ msgid ""
 msgstr ""
 
 # TODO: do research on this
-#  
+#
 # Espreon sayeth: "Hmmm, although the only extensive etymology I've seen for 'crossbow' says that 'crossbow' is a compound of 'cross' (as in rood) and 'bow', so this should work, but who knows?"
 #. [attack]: type=pierce
 #. [attack]: type=fire
@@ -2916,11 +2916,10 @@ msgid ""
 "tridents, they are a bane to any who dare enter their waters."
 msgstr ""
 
-# Espreon sayeth: "I'd just love to know the morphemes of this word!"
 #. [unit_type]: id=Cuttle Fish, race=monster
 #: data/core/units/monsters/Cuttle_Fish.cfg:4
 msgid "Cuttle Fish"
-msgstr "Ƿasescite"
+msgstr "Cudele"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 #: data/core/units/monsters/Cuttle_Fish.cfg:18
