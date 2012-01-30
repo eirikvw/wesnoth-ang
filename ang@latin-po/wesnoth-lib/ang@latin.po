@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2011-12-09 16:19-0500\n"
+"PO-Revision-Date: 2012-01-29 22:18-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -1264,9 +1264,8 @@ msgstr "Geþeodnessa:"
 
 #. [scroll_label]: id=translations
 #: data/gui/default/window/addon_description.cfg:226
-#, fuzzy
 msgid "translations^None"
-msgstr "Nan"
+msgstr "Nana"
 
 #. [label]
 #: data/gui/default/window/addon_uninstall_list.cfg:51
