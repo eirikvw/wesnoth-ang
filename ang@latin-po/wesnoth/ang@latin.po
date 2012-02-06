@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-01-25 22:59-0500\n"
+"PO-Revision-Date: 2012-01-31 15:47-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -3198,7 +3198,7 @@ msgstr ""
 
 #: src/dialogs.cpp:514
 msgid "Difficulty: "
-msgstr ""
+msgstr "Earfoðnes: "
 
 #: src/dialogs.cpp:516
 msgid "Version: "
