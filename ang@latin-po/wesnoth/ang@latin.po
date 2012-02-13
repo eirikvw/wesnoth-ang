@@ -2762,6 +2762,7 @@ msgid "unit_byte^B"
 msgstr ""
 
 #: src/addon/manager.cpp:440
+#, fuzzy
 msgid "addon_type^Campaign"
 msgstr "Fyrd"
 

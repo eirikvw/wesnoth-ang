@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-15 10:39+0100\n"
-"PO-Revision-Date: 2012-02-05 21:53-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2012-02-06 15:41-0500\n"
+"Last-Translator: Eirik Westcoat <eirikvw@aim.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
 "MIME-Version: 1.0\n"
@@ -105,6 +105,7 @@ msgstr "hamor"
 #. [unit_type]: id=Dwarvish Masked Guardsman, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Guardsman.cfg:19
 #: data/core/units/dwarves/Guardsman.cfg:19
+#, fuzzy
 msgid ""
 "The dwarven race has always been famed for its sturdiness of build, and many "
 "of their warriors outfit themselves to take advantage of this. Dwarven "
@@ -112,6 +113,11 @@ msgid ""
 "role is to hold the line, and to take a heavy toll on those who try to break "
 "it. As the line marches forward, they act to secure its hard-won advance."
 msgstr ""
+"Se dƿeorgisc cynn is a gefræge for his bodiges fæstnesse, and manig hira "
+"ƿigende gesyrƿaþ him to nimanne freme þisre. Dƿeorgisc ƿeardesmenn farað in "
+"beadƿe mid torrscieldum and garum. Oftost is hira dæl þa linan to ƿeardianne "
+"and of þæm þe fandiað brecan hie, to abædanne pislice. Sƿa seo line færð "
+"forð, ƿyrcað hie hire heard-geƿunnen forþgang gefæstenian."
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Guardsman.cfg:30
@@ -147,6 +153,7 @@ msgid "spear"
 msgstr "gar"
 
 # Do you wish to avoid words that potentially are drawn from latin? Maybe "daroþ" would be better here, if it is not being used elsewhere to refer to a different item.
+# --Do we need to translate "dart" anywhere? Daroþ would be better for that, I think.
 #. [attack]: type=pierce
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Guardsman.cfg:39
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Sentinel.cfg:47
@@ -261,13 +268,13 @@ msgid ""
 msgstr ""
 
 # Espreon sayeth: "I'm not sure about this one... My sources say that 'stormsæ' should be used for 'stormy sea', so... blargh"
+# --changed to "cieles hrið" = tempest of chill
 #. [attack]: type=cold
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:44
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:60
 #: data/core/units/undead/Necro_Lich.cfg:60
-#, fuzzy
 msgid "chill tempest"
-msgstr "ciele stormsæ"
+msgstr "cieles hrið"
 
 #. [attack]: type=arcane
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:56
@@ -544,14 +551,16 @@ msgstr ""
 msgid "ram"
 msgstr ""
 
+# As discussed, literally meaning "Three-pronged," and better than a calque of þreoteð.
 #. [attack]: type=pierce
 #. [attack]: type=blade
 #: data/core/units/drakes/Enforcer.cfg:65
 #: data/core/units/merfolk/Fighter.cfg:36
 #: data/core/units/merfolk/Triton.cfg:37 data/core/units/merfolk/Triton.cfg:45
 #: data/core/units/merfolk/Warrior.cfg:35
+#, fuzzy
 msgid "trident"
-msgstr ""
+msgstr "þreotind"
 
 #. [unit_type]: id=Drake Fighter, race=drake
 #: data/core/units/drakes/Fighter.cfg:4
@@ -646,8 +655,9 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/drakes/Glider.cfg:43
 #: data/core/units/drakes/Hurricane.cfg:128 data/core/units/drakes/Sky.cfg:127
+#, fuzzy
 msgid "slam"
-msgstr ""
+msgstr "tobeatan"
 
 #. [unit_type]: id=Hurricane Drake, race=drake
 #: data/core/units/drakes/Hurricane.cfg:4
@@ -776,8 +786,9 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/dwarves/Berserker.cfg:43
 #: data/core/units/dwarves/Ulfserker.cfg:44
+#, fuzzy
 msgid "berserker frenzy"
-msgstr ""
+msgstr "beraserca ƿodness"
 
 #. [unit_type]: id=Dwarvish Dragonguard, race=dwarf
 #: data/core/units/dwarves/Dragonguard.cfg:4
@@ -895,8 +906,9 @@ msgstr ""
 
 #. [unit_type]: id=Dwarvish Thunderer, race=dwarf
 #: data/core/units/dwarves/Thunderer.cfg:4
+#, fuzzy
 msgid "Dwarvish Thunderer"
-msgstr ""
+msgstr "Dƿeorgisc Þunra"
 
 #. [unit_type]: id=Dwarvish Thunderguard, race=dwarf
 #: data/core/units/dwarves/Thunderguard.cfg:4
@@ -1465,9 +1477,8 @@ msgstr ""
 
 #. [attack]: type=fire
 #: data/core/units/goblins/Pillager.cfg:55
-#, fuzzy
 msgid "torch"
-msgstr "leohtfæt"
+msgstr "blysa"
 
 #. [attack]: type=impact
 #: data/core/units/goblins/Pillager.cfg:64
@@ -1492,11 +1503,11 @@ msgid ""
 msgstr ""
 
 # Espreon sayeth: "Hmmm, not sure on 'æscmann' for this one. My sources point to something more... nautical, like a pirate or a sailor... and these guys aren't very nautical so... yeah.. If possible, maybe use something that sounds more pathetic since goblin spearmen are pathetic level naught units."
+# --changed to speremann. garmann would sound too dignified for this unit.
 #. [unit_type]: id=Goblin Spearman, race=goblin
 #: data/core/units/goblins/Spearman.cfg:4
-#, fuzzy
 msgid "Goblin Spearman"
-msgstr "Puca Æscmann"
+msgstr "Puca Speremann"
 
 #. [unit_type]: id=Goblin Spearman, race=goblin
 #: data/core/units/goblins/Spearman.cfg:21
@@ -1596,15 +1607,14 @@ msgstr ""
 msgid "longsword"
 msgstr "langsƿeord"
 
-# Espreon sayeth: "I'd prefer not to have conflicting terms..."
+# Agreed, there should not be overlap. But beyond that, it seems there are many different OE terms for lance, spear, javelin that could well be interchangeable. It would just be a matter of preference and consistency mostly.
 #. [attack]: type=pierce
 #: data/core/units/humans/Horse_Grand_Knight.cfg:45
 #: data/core/units/humans/Horse_Knight.cfg:44
 #: data/core/units/humans/Horse_Lancer.cfg:36
 #: data/core/units/humans/Horse_Paladin.cfg:61
-#, fuzzy
 msgid "lance"
-msgstr "gar"
+msgstr "gafeluc"
 
 #. [unit_type]: id=Knight, race=human
 #: data/core/units/humans/Horse_Knight.cfg:4
@@ -1668,9 +1678,8 @@ msgstr ""
 # Espreon sayeth: "Lots of consideration needs to be put in the names of the units of this unit tree."
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:4
-#, fuzzy
 msgid "Horseman"
-msgstr "Eoredmann"
+msgstr "Horsmann"
 
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:21
@@ -2438,7 +2447,6 @@ msgid ""
 "especially under cover of darkness."
 msgstr ""
 
-# Espreon sayeth: "Where'd ya get this one? Bosworth-Toller isn't sure on this one and it implies 'sceptre', so... hmmm..."
 #. [attack]: type=impact
 #: data/core/units/humans/Outlaw_Footpad.cfg:38
 #: data/core/units/humans/Outlaw_Ruffian.cfg:36
@@ -2446,9 +2454,8 @@ msgstr ""
 #: data/core/units/merfolk/Entangler.cfg:26
 #: data/core/units/merfolk/Netcaster.cfg:37
 #: data/core/units/trolls/Troll.cfg:37
-#, fuzzy
 msgid "club"
-msgstr "casebill"
+msgstr "batt"
 
 #. [female]
 #: data/core/units/humans/Outlaw_Footpad.cfg:176
