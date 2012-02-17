@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-01-21 16:12-0500\n"
+"PO-Revision-Date: 2012-01-25 22:28-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -3999,7 +3999,7 @@ msgstr "Ælƿiht"
 #. [race]: id=monster
 #: data/core/units.cfg:222
 msgid "race^Monsters"
-msgstr "Ælƿihtas"
+msgstr "Ælƿihta"
 
 #. [race]: id=monster
 #: data/core/units.cfg:223

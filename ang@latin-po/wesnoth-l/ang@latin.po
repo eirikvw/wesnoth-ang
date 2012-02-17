@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-08 18:12+0100\n"
-"PO-Revision-Date: 2011-09-08 21:17-0500\n"
+"PO-Revision-Date: 2012-01-31 15:51-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -59,7 +59,7 @@ msgstr "Utlaga"
 #. "marchlander" is archaic English for an inhabitant of a border region.
 #: data/campaigns/Liberty/_main.cfg:19
 msgid "(Difficult)"
-msgstr ""
+msgstr "(Earfoðlic)"
 
 #. [campaign]: id=Liberty
 #. Yes, that is "marchlanders", not "marshlanders".

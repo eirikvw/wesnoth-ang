@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-01-21 14:45-0500\n"
+"PO-Revision-Date: 2012-02-12 22:31-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -2762,7 +2762,6 @@ msgid "unit_byte^B"
 msgstr ""
 
 #: src/addon/manager.cpp:440
-#, fuzzy
 msgid "addon_type^Campaign"
 msgstr "Fyrd"
 
@@ -3199,7 +3198,7 @@ msgstr ""
 
 #: src/dialogs.cpp:514
 msgid "Difficulty: "
-msgstr ""
+msgstr "Earfoðnes: "
 
 #: src/dialogs.cpp:516
 msgid "Version: "
@@ -3391,11 +3390,11 @@ msgstr ""
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:205 src/multiplayer_lobby.cpp:447
 msgid "Unknown era: $era_id"
-msgstr ""
+msgstr "Ungecnaƿenu ieldu: $era_id"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:210 src/multiplayer_lobby.cpp:451
 msgid "Unknown era"
-msgstr ""
+msgstr "Ungecnaƿenu ieldu"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:266 src/multiplayer_lobby.cpp:513
 msgid "Remote scenario"
@@ -4881,7 +4880,7 @@ msgstr ""
 
 #: src/multiplayer_lobby.cpp:159
 msgid " (Unknown Era)"
-msgstr ""
+msgstr " (Ungecnaƿenu Ieldu)"
 
 #: src/multiplayer_lobby.cpp:552 src/multiplayer_lobby.cpp:891
 msgid "Password Required"

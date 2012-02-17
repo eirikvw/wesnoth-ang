@@ -2583,10 +2583,12 @@ msgid ""
 "of superior forces."
 msgstr ""
 
+# Espreon sayeth: "Hmmm, B-T seems to associate this term with 'tridens', so I'll keep this one fuzzied for now..."
 #. [attack]: type=pierce
 #: data/core/units/humans/Peasant.cfg:37 data/core/units/humans/Peasant.cfg:46
+#, fuzzy
 msgid "pitchfork"
-msgstr ""
+msgstr "forcel"
 
 #. [unit_type]: id=Royal Warrior, race=human
 #: data/core/units/humans/Royal_Warrior.cfg:8
