@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-02-12 22:31-0500\n"
+"PO-Revision-Date: 2012-02-16 22:16-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -1786,12 +1786,12 @@ msgstr "$name|burh,$name|ham,$name|tun,$swamp|burh,$swamp|ham,$swamp|tun"
 #. [language]
 #: data/english.cfg:43
 msgid "melee"
-msgstr ""
+msgstr "neahfeoht"
 
 #. [language]
 #: data/english.cfg:44
 msgid "ranged"
-msgstr ""
+msgstr "feorfeoht"
 
 #. [language]
 #: data/english.cfg:47
@@ -2498,10 +2498,11 @@ msgstr "Geatan"
 msgid "Cancel"
 msgstr ""
 
+# If we decide this is too long, we could either go with "oferfeor" or "oferlang", but consistency is golden, so blargh.
 #. [language]
 #: data/scenario-test.cfg:3157
 msgid "very long"
-msgstr ""
+msgstr "oferfeorfeoht"
 
 #. [language]
 #: data/scenario-test.cfg:3158
