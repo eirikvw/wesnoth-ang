@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-02-17 18:29-0500\n"
+"PO-Revision-Date: 2012-02-21 10:05-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -2402,7 +2402,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/unit_create.cfg:67
 msgid "Gender:"
-msgstr ""
+msgstr "Gecynd:"
 
 #. [toggle_button]: id=male_toggle
 #: data/gui/default/window/unit_create.cfg:77

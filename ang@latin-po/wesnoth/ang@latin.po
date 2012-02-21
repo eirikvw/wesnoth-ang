@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-02-17 19:06-0500\n"
+"PO-Revision-Date: 2012-02-21 10:28-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -3825,7 +3825,7 @@ msgstr ""
 
 #: src/menu_events.cpp:1565 src/multiplayer_wait.cpp:131
 msgid "Gender: "
-msgstr ""
+msgstr "Gecynd: "
 
 #: src/menu_events.cpp:1858
 msgid "Search"
