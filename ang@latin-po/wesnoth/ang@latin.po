@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-02-16 22:16-0500\n"
+"PO-Revision-Date: 2012-02-17 19:06-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -4601,7 +4601,6 @@ msgid "Reserved"
 msgstr ""
 
 #: src/multiplayer_connect.cpp:762
-#, fuzzy
 msgid "--give--"
 msgstr "--giefan--"
 
@@ -4811,11 +4810,11 @@ msgstr ""
 
 #: src/multiplayer_create.cpp:224
 msgid "No eras found."
-msgstr ""
+msgstr "Nana ielda gefunden."
 
 #: src/multiplayer_create.cpp:225
 msgid "No eras found"
-msgstr ""
+msgstr "Nana ielda gefunden"
 
 #: src/multiplayer_create.cpp:238
 msgid "$login|’s game"
