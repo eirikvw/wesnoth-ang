@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-02-21 10:05-0500\n"
+"PO-Revision-Date: 2012-02-28 17:59-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -146,7 +146,7 @@ msgstr ""
 #. [terrain_type]: id=road
 #: data/core/terrain.cfg:217
 msgid "Dry Dirt"
-msgstr "Drygeu Eorðe"
+msgstr "Drygu Eorðe"
 
 #. [terrain_type]: id=road
 #. [terrain_type]: id=road_clean
@@ -269,15 +269,18 @@ msgstr ""
 msgid "Stones with Sand Drifts"
 msgstr ""
 
+# Espreon sayeth: perhaps it should be one word?
 #. [terrain_type]: id=water-lilies
 #: data/core/terrain.cfg:427
+#, fuzzy
 msgid "Water Lilies"
-msgstr ""
+msgstr "Ƿæter Lilian"
 
 #. [terrain_type]: id=water-lilies-flower
 #: data/core/terrain.cfg:437
+#, fuzzy
 msgid "Flowering Water Lilies"
-msgstr ""
+msgstr "Blostmende Ƿæter Lilian"
 
 #. [terrain_type]: id=great_tree
 #. [terrain_type]: id=great_tree_dead
@@ -329,23 +332,27 @@ msgstr ""
 
 #. [terrain_type]: id=deciduous_forest_summer
 #: data/core/terrain.cfg:512
+#, fuzzy
 msgid "Summer Deciduous Forest"
-msgstr ""
+msgstr "Sumortid Hrurol Ƿeald"
 
 #. [terrain_type]: id=deciduous_forest_fall
 #: data/core/terrain.cfg:524
+#, fuzzy
 msgid "Fall Deciduous Forest"
-msgstr ""
+msgstr "Hærfesttid Hrurol Ƿeald"
 
 #. [terrain_type]: id=deciduous_forest_winter
 #: data/core/terrain.cfg:536
+#, fuzzy
 msgid "Winter Deciduous Forest"
-msgstr ""
+msgstr "Ƿintertid Hrurol Ƿeald"
 
 #. [terrain_type]: id=deciduous_forest_winter_snow
 #: data/core/terrain.cfg:548
+#, fuzzy
 msgid "Snowy Deciduous Forest"
-msgstr ""
+msgstr "Snaƿig Hrurol Ƿeald"
 
 #. [terrain_type]: id=mixed_forest_summer
 #: data/core/terrain.cfg:560
@@ -398,7 +405,7 @@ msgstr ""
 #. [terrain_type]: id=hills_dry
 #: data/core/terrain.cfg:621
 msgid "Dry Hills"
-msgstr "Drygee Hyllas"
+msgstr "Dryge Hyllas"
 
 #. [terrain_type]: id=desert_hills
 #: data/core/terrain.cfg:630
@@ -425,7 +432,7 @@ msgstr "Beorgas"
 #. [terrain_type]: id=desert_mountains
 #: data/core/terrain.cfg:664
 msgid "Dry Mountains"
-msgstr "Drygee Beorgas"
+msgstr "Dryge Beorgas"
 
 #. [terrain_type]: id=snow_mountains
 #: data/core/terrain.cfg:674
@@ -1486,22 +1493,22 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:54
 msgid "New width:"
-msgstr "Niƿeu ƿidu:"
+msgstr "Niƿu ƿidu:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:78
 msgid "Old width:"
-msgstr "Ealdu ƿidu:"
+msgstr "Eald ƿidu:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:102
 msgid "New height:"
-msgstr "Niƿeu hiehðu:"
+msgstr "Niƿu hiehðu:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:126
 msgid "Old height:"
-msgstr "Ealdu hiehðu:"
+msgstr "Eald hiehðu:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:153
