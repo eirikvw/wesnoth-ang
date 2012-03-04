@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-07 22:09+0200\n"
-"PO-Revision-Date: 2012-03-01 13:44+1200\n"
-"Last-Translator: Zetan R S <axonfifty@gmail.com>\n"
+"PO-Revision-Date: 2012-03-03 19:23-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_A_New_Land
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:4
 msgid "4p — A New Land"
-msgstr "Feoƿer plegendas - Niƿe Land"
+msgstr "4p — Niƿe Land"
 
 #. [multiplayer]: id=multiplayer_A_New_Land
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:6
@@ -61,7 +61,7 @@ msgstr "Þu scealt lifian oþ þone 25. stæpe. "
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:81
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:96
 msgid "teamname^Team 1"
-msgstr "teamname^1. hloþ"
+msgstr "1. hloþ"
 
 #. [side]: type=Death Knight
 #. [side]: type=Orcish Sovereign
@@ -70,7 +70,7 @@ msgstr "teamname^1. hloþ"
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:168
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:195
 msgid "teamname^Team 2"
-msgstr "teamname^2. hloþ"
+msgstr "2. hloþ"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:407
@@ -146,7 +146,7 @@ msgid ""
 "it must be where the mainstay of their resources are produced. If we could "
 "destroy them our chances wouldn’t nearly be so slim."
 msgstr ""
-"Þynceþ þætte þa fiendas hæbben getimbrod sƿammgedelf under grunde neah - hit "
+"Þynceþ þætte þa fiendas hæbben getimbrod sƿammgedelf under grunde neah — hit "
 "sceall ƿesan þær heora heafodhord andleofena sind forþboren. Gif ƿe deligen "
 "hie ƿære hit sƿiðe gelicre þætte ƿe ƿinnen."
 
@@ -202,7 +202,7 @@ msgstr "Ne drædaþ, us giet is hopa!"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_general_macros.cfg:34
 msgid "The chest contains $oc_treasure gold."
-msgstr "Þæt scrin hielt %oc_treasure goldes."
+msgstr "Þæt scrin hielt $oc_treasure goldes."
 
 #. [option]
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:5
@@ -339,7 +339,7 @@ msgstr "Help"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:111
 msgid "A New Land — Help"
-msgstr "Niƿe Land - Help"
+msgstr "Niƿe Land — Help"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:112
@@ -381,7 +381,7 @@ msgid ""
 "You know worryingly little about the arts of war, $sw_player_name|. I feel "
 "an obligation to instruct you in this vital matter."
 msgstr ""
-"Þu ƿast sƿiðe lyft be guþcræfte, $sm_player_name|. Me þynceþ þætte ic scolde "
+"Þu ƿast sƿiðe lyft be guþcræfte, $sw_player_name|. Me þynceþ þætte ic scolde "
 "þec ymb þisne andtimber læran."
 
 #. [set_variable]
@@ -501,7 +501,7 @@ msgid ""
 "Our talks are complete — the Dwarves will gladly fight by your side. Which "
 "of our brethren do you want to recruit?"
 msgstr ""
-"Ura hƿearfunga sind fulfyleda - þa Dƿeorgas georna feohtaþ mid þe. Hƿone "
+"Ura hƿearfunga sind fulfyleda — þa Dƿeorgas georna feohtaþ mid þe. Hƿone "
 "urra gebroðra ƿilt þu hyran?"
 
 #. [message]: speaker=narrator
@@ -678,7 +678,7 @@ msgstr "Ƿend to græslande"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:352
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
 msgid "Cost: 0g"
-msgstr "Ƿeorþ: nænig gold"
+msgstr "Ƿeorþ: 0g"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:86
