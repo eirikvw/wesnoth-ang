@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-02-24 02:58-0500\n"
+"PO-Revision-Date: 2012-03-08 01:50-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -312,7 +312,7 @@ msgstr ""
 #: data/core/about.cfg:1227
 #, fuzzy
 msgid "English strings edition"
-msgstr "Niƿe Englisc"
+msgstr "Niƿe Englisc strenga fadung"
 
 #. [about]
 #: data/core/about.cfg:1234
@@ -342,12 +342,12 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:1334
 msgid "Chinese Translation"
-msgstr ""
+msgstr "Cinisc Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:1402
 msgid "Chinese (Taiwan) Translation"
-msgstr ""
+msgstr "Cinisc (Taiƿan) Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:1412
@@ -498,7 +498,6 @@ msgstr "Norðisc Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:2346
-#, fuzzy
 msgid "Old English Translation"
 msgstr "Englisc Geþeodnes"
 
@@ -554,9 +553,8 @@ msgstr "Sƿeonisc Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:2717
-#, fuzzy
 msgid "Turkish Translation"
-msgstr "Turkiscu Geþeodnes"
+msgstr "Turkisc Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:2739
@@ -566,7 +564,7 @@ msgstr ""
 #. [about]
 #: data/core/about.cfg:2752
 msgid "Vietnamese Translation"
-msgstr ""
+msgstr "Fietnamisc Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:2771
@@ -670,9 +668,8 @@ msgstr ""
 #: data/core/macros/ai_controller.cfg:320
 #: data/core/macros/ai_controller.cfg:709
 #: data/core/macros/ai_controller.cfg:800
-#, fuzzy
 msgid "Back"
-msgstr "Bæc"
+msgstr ""
 
 #. [protect]
 #: data/core/macros/ai_controller.cfg:201
@@ -1570,7 +1567,7 @@ msgstr ""
 #. [color_range]: id=2
 #: data/core/team-colors.cfg:32 data/core/team-colors.cfg:89
 msgid "Blue"
-msgstr "Blaƿ"
+msgstr "Hæƿen"
 
 #. [color_range]: id=green
 #. [color_range]: id=3
@@ -1578,12 +1575,11 @@ msgstr "Blaƿ"
 msgid "Green"
 msgstr "Grene"
 
-# TODO: try to find an English word for this...
 #. [color_range]: id=purple
 #. [color_range]: id=4
 #: data/core/team-colors.cfg:44 data/core/team-colors.cfg:101
 msgid "Purple"
-msgstr "Purpul"
+msgstr "Basu"
 
 #. [color_range]: id=black
 #. [color_range]: id=5
@@ -1601,7 +1597,7 @@ msgstr "Brun"
 #. [color_range]: id=7
 #: data/core/team-colors.cfg:62 data/core/team-colors.cfg:107
 msgid "Orange"
-msgstr "Geoluhread"
+msgstr "Geoluread"
 
 #. [color_range]: id=white
 #. [color_range]: id=8
@@ -1609,12 +1605,11 @@ msgstr "Geoluhread"
 msgid "White"
 msgstr "Hƿit"
 
-# I guess we can call it 'blue-green'...
 #. [color_range]: id=teal
 #. [color_range]: id=9
 #: data/core/team-colors.cfg:74 data/core/team-colors.cfg:131
 msgid "Teal"
-msgstr "Blaƿgrene"
+msgstr "Grenehæƿen"
 
 #. [language]
 #: data/english.cfg:3
@@ -1628,15 +1623,13 @@ msgstr ""
 
 #. [language]
 #: data/english.cfg:5
-#, fuzzy
 msgid "Hard"
-msgstr "Heard"
+msgstr "Earfoþ"
 
 #. [language]
 #: data/english.cfg:6
-#, fuzzy
 msgid "Nightmare"
-msgstr "Ælfadl"
+msgstr "Sƿīðe earfoð"
 
 #. [language]
 #: data/english.cfg:11
@@ -1696,7 +1689,7 @@ msgstr ""
 #: data/english.cfg:27
 #, fuzzy
 msgid "$name Lake"
-msgstr "$name|es Lagu"
+msgstr "$name Lagu"
 
 #. [language]
 #: data/english.cfg:28
@@ -1806,7 +1799,7 @@ msgstr "stice"
 #. [language]
 #: data/english.cfg:49
 msgid "impact"
-msgstr "gegrind"
+msgstr "dynt"
 
 #. [language]
 #: data/english.cfg:50
@@ -2310,7 +2303,7 @@ msgstr ""
 #: data/hardwired/tips.cfg:185
 #, fuzzy
 msgid "<i>― Queen Li’sar, 528YW</i>"
-msgstr "<i>― Cyninge Li’sar, 528YW</i>"
+msgstr "<i>― Li’sar Cyninge, 528YW</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:188
@@ -2469,7 +2462,7 @@ msgstr ""
 
 #: data/lua/wml/objectives.lua:53
 msgid "Notes:"
-msgstr "Notas:"
+msgstr "Geƿritu:"
 
 #: data/lua/wml/objectives.lua:71
 msgid "(%d turns left)"
@@ -2504,6 +2497,7 @@ msgstr ""
 msgid "very long"
 msgstr "oferfeorfeoht"
 
+# TODO: perhaps reconsider this translation
 #. [language]
 #: data/scenario-test.cfg:3158
 msgid "electrical"
@@ -2719,7 +2713,7 @@ msgstr ""
 
 #: src/actions.cpp:2715
 msgid "Ambushed!"
-msgstr "Gesæted!"
+msgstr "Besætod!"
 
 #: src/actions.cpp:2722
 msgid "Failed teleport! Exit not empty"
@@ -3349,7 +3343,7 @@ msgstr ""
 
 #: src/game_controller.cpp:1077 src/game_controller_abstract.cpp:99
 msgid "The Battle for Wesnoth"
-msgstr "Þæt Ƿig for Ƿesnoþ"
+msgstr "Þæt Ƿig ymbe Ƿesnoþ"
 
 #: src/game_controller.cpp:1196
 msgid "The following add-on had errors and could not be loaded:"
@@ -3391,11 +3385,11 @@ msgstr ""
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:205 src/multiplayer_lobby.cpp:447
 msgid "Unknown era: $era_id"
-msgstr "Ungecnaƿenu ieldu: $era_id"
+msgstr "Uncuþ ieldu: $era_id"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:210 src/multiplayer_lobby.cpp:451
 msgid "Unknown era"
-msgstr "Ungecnaƿenu ieldu"
+msgstr "Uncuþ ieldu"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:266 src/multiplayer_lobby.cpp:513
 msgid "Remote scenario"
@@ -3439,7 +3433,6 @@ msgid "none"
 msgstr "nan"
 
 #: src/gui/dialogs/lobby_player_info.cpp:98
-#, fuzzy
 msgid "In game:"
 msgstr "On gamene:"
 
@@ -3663,7 +3656,7 @@ msgstr ""
 
 #: src/menu_events.cpp:489
 msgid "More >"
-msgstr "Mara >"
+msgstr "Ma >"
 
 #: src/menu_events.cpp:507
 msgid "scenario settings^Leader"
@@ -3817,7 +3810,7 @@ msgstr ""
 
 #: src/menu_events.cpp:1538
 msgid "Race"
-msgstr ""
+msgstr "Cynn"
 
 #: src/menu_events.cpp:1562
 msgid "Create Unit (Debug!)"
@@ -3909,7 +3902,7 @@ msgstr ""
 #: src/menu_events.cpp:2341 src/menu_events.cpp:2343 src/menu_events.cpp:2370
 #: src/menu_events.cpp:2372 src/menu_events.cpp:2374 src/menu_events.cpp:2388
 msgid "<nickname>"
-msgstr "<eacanama>"
+msgstr "<brucendnama>"
 
 #: src/menu_events.cpp:2336
 msgid "Unban a user. He does not have to be in the game but on the server."
@@ -4275,9 +4268,7 @@ msgstr ""
 msgid "Switched domain: '$domain' to level: '$level'."
 msgstr ""
 
-# Should we append a dative -e to what's inside of $receiver?
 #: src/menu_events.cpp:2767
-#, fuzzy
 msgid "whisper to $receiver"
 msgstr "hƿisprian to $receiver"
 
@@ -4345,7 +4336,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2987
 msgid "setting $var to $value"
-msgstr "setende $var to $value"
+msgstr "settende $var to $value"
 
 #: src/menu_events.cpp:3001
 msgid "requesting information for user $nick"
@@ -4666,7 +4657,7 @@ msgstr ""
 
 #: src/multiplayer_connect.cpp:1525
 msgid "Empty"
-msgstr "Æmttig"
+msgstr "Æmettig"
 
 #: src/multiplayer_connect.cpp:1678
 msgid "Cannot find era $era"
@@ -4857,10 +4848,9 @@ msgid "Action bonus: "
 msgstr ""
 
 #: src/multiplayer_create.cpp:423
-#, fuzzy
 #| msgid "Village"
 msgid "Village gold: "
-msgstr "Þorp"
+msgstr "Þorpes gold:"
 
 #: src/multiplayer_create.cpp:429
 msgid "Experience modifier: "
@@ -4880,7 +4870,7 @@ msgstr ""
 
 #: src/multiplayer_lobby.cpp:159
 msgid " (Unknown Era)"
-msgstr " (Ungecnaƿenu Ieldu)"
+msgstr " (Uncuþ Ieldu)"
 
 #: src/multiplayer_lobby.cpp:552 src/multiplayer_lobby.cpp:891
 msgid "Password Required"
@@ -4924,7 +4914,7 @@ msgstr ""
 
 #: src/multiplayer_lobby.cpp:749
 msgid "Friends in game"
-msgstr ""
+msgstr "Friend on gamene"
 
 #: src/multiplayer_lobby.cpp:750
 msgid "Search:"
@@ -5247,7 +5237,7 @@ msgstr ""
 
 #: src/reports.cpp:195
 msgid "Race: "
-msgstr ""
+msgstr "Cynn: "
 
 #: src/reports.cpp:237
 msgid "Level: "
