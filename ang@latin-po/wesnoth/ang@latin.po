@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-03-08 01:50-0500\n"
+"PO-Revision-Date: 2012-03-08 02:15-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -1624,12 +1624,13 @@ msgstr ""
 #. [language]
 #: data/english.cfg:5
 msgid "Hard"
-msgstr "Earfoþ"
+msgstr "Earfoðlic"
 
 #. [language]
 #: data/english.cfg:6
+#, fuzzy
 msgid "Nightmare"
-msgstr "Sƿīðe earfoð"
+msgstr "Sƿiðe earfoð"
 
 #. [language]
 #: data/english.cfg:11
