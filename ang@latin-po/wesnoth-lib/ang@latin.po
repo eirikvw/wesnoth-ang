@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-03-10 02:11-0500\n"
+"PO-Revision-Date: 2012-03-10 02:15-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -751,7 +751,7 @@ msgstr "Cot"
 #. [terrain_type]: id=snow_village
 #: data/core/terrain.cfg:1241
 msgid "Snowy Cottage"
-msgstr "Besniƿod Cot"
+msgstr "Snaƿig Cot"
 
 #. [terrain_type]: id=human_village_ruin
 #: data/core/terrain.cfg:1254
