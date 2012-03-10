@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-02-28 17:59-0500\n"
+"PO-Revision-Date: 2012-03-10 02:11-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -112,8 +112,9 @@ msgstr "Grene Græs"
 
 #. [terrain_type]: id=savanna
 #: data/core/terrain.cfg:164
+#, fuzzy
 msgid "Semi-dry Grass"
-msgstr ""
+msgstr "Samdryge Græs"
 
 #. [terrain_type]: id=grass_dry
 #: data/core/terrain.cfg:175
@@ -135,8 +136,9 @@ msgstr "Eorðe"
 
 #. [terrain_type]: id=dirt_dark
 #: data/core/terrain.cfg:197
+#, fuzzy
 msgid "Dark Dirt"
-msgstr "Dimmu Eorðe"
+msgstr "Dunn Eorðe"
 
 #. [terrain_type]: id=dirt
 #: data/core/terrain.cfg:207
@@ -269,18 +271,15 @@ msgstr ""
 msgid "Stones with Sand Drifts"
 msgstr ""
 
-# Espreon sayeth: perhaps it should be one word?
 #. [terrain_type]: id=water-lilies
 #: data/core/terrain.cfg:427
-#, fuzzy
 msgid "Water Lilies"
-msgstr "Ƿæter Lilian"
+msgstr "Fleaðan"
 
 #. [terrain_type]: id=water-lilies-flower
 #: data/core/terrain.cfg:437
-#, fuzzy
 msgid "Flowering Water Lilies"
-msgstr "Blostmende Ƿæter Lilian"
+msgstr "Bloƿenda Fleaðan"
 
 #. [terrain_type]: id=great_tree
 #. [terrain_type]: id=great_tree_dead
@@ -332,25 +331,21 @@ msgstr ""
 
 #. [terrain_type]: id=deciduous_forest_summer
 #: data/core/terrain.cfg:512
-#, fuzzy
 msgid "Summer Deciduous Forest"
-msgstr "Sumortid Hrurol Ƿeald"
+msgstr "Sumorlic Hrurol Ƿeald"
 
 #. [terrain_type]: id=deciduous_forest_fall
 #: data/core/terrain.cfg:524
-#, fuzzy
 msgid "Fall Deciduous Forest"
-msgstr "Hærfesttid Hrurol Ƿeald"
+msgstr "Hærfestlic Hrurol Ƿeald"
 
 #. [terrain_type]: id=deciduous_forest_winter
 #: data/core/terrain.cfg:536
-#, fuzzy
 msgid "Winter Deciduous Forest"
-msgstr "Ƿintertid Hrurol Ƿeald"
+msgstr "Ƿinterlic Hrurol Ƿeald"
 
 #. [terrain_type]: id=deciduous_forest_winter_snow
 #: data/core/terrain.cfg:548
-#, fuzzy
 msgid "Snowy Deciduous Forest"
 msgstr "Snaƿig Hrurol Ƿeald"
 
@@ -501,6 +496,7 @@ msgstr ""
 
 #. [terrain_type]: id=lit
 #: data/core/terrain.cfg:815
+#, fuzzy
 msgid "Lit"
 msgstr "Geleohted"
 
@@ -518,7 +514,7 @@ msgstr "Scræf"
 #. [terrain_type]: id=cave
 #: data/core/terrain.cfg:827
 msgid "Cave Floor"
-msgstr "Scræf Flor"
+msgstr "Scræfes Flor"
 
 #. [terrain_type]: id=cave_earthy
 #: data/core/terrain.cfg:836
@@ -533,7 +529,7 @@ msgstr ""
 #. [terrain_type]: id=cave_path
 #: data/core/terrain.cfg:856
 msgid "Cave Path"
-msgstr "Scræf Pæþ"
+msgstr "Scræfes Pæþ"
 
 #. [terrain_type]: id=fungus
 #. [terrain_type]: id=fungus_beam
@@ -620,7 +616,7 @@ msgstr ""
 #: data/core/terrain.cfg:1039 data/core/terrain.cfg:1050
 #: data/core/terrain.cfg:1061 data/core/terrain.cfg:1072
 msgid "Cave Wall"
-msgstr "Scræf Ƿeall"
+msgstr "Scræfes Ƿeall"
 
 #. [terrain_type]: id=cavewall
 #: data/core/terrain.cfg:1040
@@ -745,7 +741,7 @@ msgstr ""
 #. [terrain_type]: id=elven_village
 #: data/core/terrain.cfg:1213
 msgid "Elven Village"
-msgstr ""
+msgstr "Ælfisc Þorp"
 
 #. [terrain_type]: id=human_village
 #: data/core/terrain.cfg:1228
@@ -755,7 +751,7 @@ msgstr "Cot"
 #. [terrain_type]: id=snow_village
 #: data/core/terrain.cfg:1241
 msgid "Snowy Cottage"
-msgstr "Snaƿig Cot"
+msgstr "Besniƿod Cot"
 
 #. [terrain_type]: id=human_village_ruin
 #: data/core/terrain.cfg:1254
@@ -764,20 +760,18 @@ msgstr ""
 
 #. [terrain_type]: id=city_village
 #: data/core/terrain.cfg:1267
-#, fuzzy
 msgid "Human City"
-msgstr "Menniscu Burg"
+msgstr "Mennisc Burg"
 
 #. [terrain_type]: id=windmill_village
 #: data/core/terrain.cfg:1280
 msgid "Windmill Village"
-msgstr "Ƿindmylen Þorp"
+msgstr "Ƿindmylena Þorp"
 
 #. [terrain_type]: id=city_village_wno
 #: data/core/terrain.cfg:1293
-#, fuzzy
 msgid "Snowy Human City"
-msgstr "Snaƿigu Menniscu Burg"
+msgstr "Besniƿod Mennisc Burg"
 
 #. [terrain_type]: id=city_village
 #: data/core/terrain.cfg:1306
@@ -851,10 +845,9 @@ msgstr ""
 
 #. [terrain_type]: id=mermen-village
 #: data/core/terrain.cfg:1492
-#, fuzzy
 #| msgid "Village"
 msgid "Merfolk Village"
-msgstr "Meremenniscu Þorp"
+msgstr "Meremennisc Þorp"
 
 #. [terrain_type]: id=village_overlay
 #: data/core/terrain.cfg:1507
@@ -886,7 +879,7 @@ msgstr ""
 #: data/core/terrain.cfg:1592 data/core/terrain.cfg:1604
 #: data/core/terrain.cfg:1654 data/core/terrain.cfg:1864
 msgid "Castle"
-msgstr ""
+msgstr "Burh"
 
 #. [terrain_type]: id=orcish_fort
 #: data/core/terrain.cfg:1547
@@ -901,22 +894,23 @@ msgstr ""
 #. [terrain_type]: id=castle
 #: data/core/terrain.cfg:1571
 msgid "Human Castle"
-msgstr ""
+msgstr "Mennisc Burh"
 
 #. [terrain_type]: id=snow_castle
 #: data/core/terrain.cfg:1582
+#, fuzzy
 msgid "Snowy Human Castle"
-msgstr ""
+msgstr "Snaƿig Mennisc Burh"
 
 #. [terrain_type]: id=elven_castle
 #: data/core/terrain.cfg:1593
 msgid "Elvish Castle"
-msgstr ""
+msgstr "Ælfisc Burh"
 
 #. [terrain_type]: id=dwarven_castle
 #: data/core/terrain.cfg:1605
 msgid "Dwarven Castle"
-msgstr ""
+msgstr "Dƿeorgisc Burh"
 
 #. [terrain_type]: id=ruin
 #. [terrain_type]: id=sunkenruin
@@ -1091,10 +1085,9 @@ msgstr ""
 #. [terrain_type]: id=rotbridgediag2
 #: data/core/terrain.cfg:1931 data/core/terrain.cfg:1943
 #: data/core/terrain.cfg:1955
-#, fuzzy
 #| msgid "Bridge"
 msgid "Rotting Bridge"
-msgstr "Rotende Brycg"
+msgstr "Rotiendu Brycg"
 
 #. [terrain_type]: id=stone_bridge
 #: data/core/terrain.cfg:1969 data/core/terrain.cfg:1981
@@ -1252,7 +1245,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/addon_description.cfg:149
 msgid "Size:"
-msgstr "Grytu:"
+msgstr "Grietu:"
 
 #. [label]
 #: data/gui/default/window/addon_description.cfg:180
@@ -1403,8 +1396,9 @@ msgstr ""
 #. [button]: id=clear
 #: data/gui/default/window/data_manage.cfg:266
 #: data/gui/default/window/data_manage.cfg:267
+#, fuzzy
 msgid "Clear"
-msgstr "Berian"
+msgstr "Ryman"
 
 #. [button]: id=restore
 #: data/gui/default/window/data_manage.cfg:283
@@ -1465,7 +1459,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/editor_new_map.cfg:54 src/mapgen_dialog.cpp:121
 msgid "Width:"
-msgstr "Ƿidu:"
+msgstr "Ƿidness:"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -1476,10 +1470,9 @@ msgstr "Hiehðu:"
 #. [button]: id=ok
 #: data/gui/default/window/editor_new_map.cfg:108
 #: data/gui/default/window/editor_new_map.cfg:109
-#, fuzzy
 #| msgid "Create Game"
 msgid "Create New Map"
-msgstr "Gamen Macian"
+msgstr "Niƿe Landcartan Scieppan"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -1493,12 +1486,12 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:54
 msgid "New width:"
-msgstr "Niƿu ƿidu:"
+msgstr "Niƿu ƿidness:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:78
 msgid "Old width:"
-msgstr "Eald ƿidu:"
+msgstr "Eald ƿidness:"
 
 #. [label]
 #: data/gui/default/window/editor_resize_map.cfg:102
@@ -1564,7 +1557,7 @@ msgstr "Grene:"
 #. [label]
 #: data/gui/default/window/editor_settings.cfg:187
 msgid "Blue:"
-msgstr "Blaƿ:"
+msgstr "Hæƿen:"
 
 #. [toggle_button]: id=use_mdi
 #: data/gui/default/window/editor_settings.cfg:231
@@ -1803,10 +1796,9 @@ msgstr ""
 #. [button]: id=ok
 #: data/gui/default/window/language_selection.cfg:128
 #: data/gui/default/window/language_selection.cfg:129 src/hotkeys.cpp:204
-#, fuzzy
 #| msgid "Language"
 msgid "Change Language"
-msgstr "Spræc"
+msgstr "Spræce Ƿendan"
 
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:109
@@ -1895,7 +1887,7 @@ msgstr ""
 #. [label]: id=room
 #: data/gui/default/window/lobby_main.cfg:479
 msgid "Rooms"
-msgstr "Rumas"
+msgstr "Geruman"
 
 #. [image]: id=pending_messages
 #: data/gui/default/window/lobby_main.cfg:497
@@ -2039,7 +2031,7 @@ msgstr ""
 #. [label]: id=nick_title
 #: data/gui/default/window/mp_change_control.cfg:73
 msgid "Nickname"
-msgstr "Eacanama"
+msgstr "Brucendnama"
 
 #. [label]
 #: data/gui/default/window/mp_change_control.cfg:194
@@ -2126,8 +2118,9 @@ msgstr ""
 
 #. [label]: id=map_size
 #: data/gui/default/window/mp_create_game.cfg:167
+#, fuzzy
 msgid "Map size: "
-msgstr ""
+msgstr "Landcartan grietu: "
 
 #. [label]
 #: data/gui/default/window/mp_create_game.cfg:185
@@ -2164,7 +2157,7 @@ msgstr ""
 #. [label]
 #: data/gui/default/window/mp_create_game.cfg:380
 msgid "Village gold"
-msgstr ""
+msgstr "Þorpes gold"
 
 #. [toggle_button]: id=fog
 #: data/gui/default/window/mp_create_game.cfg:460
@@ -2366,8 +2359,9 @@ msgstr ""
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:229
+#, fuzzy
 msgid "Change the language"
-msgstr ""
+msgstr "Þa spræce ƿendan"
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:230
@@ -2386,7 +2380,6 @@ msgstr ""
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:232
-#, fuzzy
 msgid "Quit the game"
 msgstr "Þæt gamen læfan"
 
@@ -2627,7 +2620,7 @@ msgstr "Hludnes:"
 #, fuzzy
 #| msgid "Speed: "
 msgid "Scroll speed:"
-msgstr "Ofost: "
+msgstr "Geƿindunge ofost:"
 
 #: src/game_preferences_display.cpp:227
 msgid "Sample rate (Hz):"
@@ -2896,8 +2889,9 @@ msgid "Prefs section^Display"
 msgstr ""
 
 #: src/game_preferences_display.cpp:1256
+#, fuzzy
 msgid "Prefs section^Sound"
-msgstr "Hlem"
+msgstr "Sƿeg"
 
 #: src/game_preferences_display.cpp:1257
 msgid "Prefs section^Multiplayer"
@@ -3061,7 +3055,6 @@ msgid "Version: "
 msgstr ""
 
 #: src/gui/dialogs/lobby_main.cpp:230
-#, fuzzy
 msgid "whisper to $receiver"
 msgstr "hƿisprian to $receiver"
 
@@ -3092,8 +3085,9 @@ msgid "$player has entered the room"
 msgstr ""
 
 #: src/gui/dialogs/lobby_main.cpp:1458
+#, fuzzy
 msgid "$player has left the room"
-msgstr ""
+msgstr "$player hæfþ gelæfed þone geruman"
 
 #: src/gui/dialogs/lobby_main.cpp:1571
 msgid "Password Required"
@@ -3587,7 +3581,6 @@ msgid "Speak to Ally"
 msgstr ""
 
 #: src/hotkeys.cpp:201
-#, fuzzy
 msgid "Speak to All"
 msgstr "Sprecan Eallum"
 
@@ -3629,7 +3622,7 @@ msgstr ""
 
 #: src/hotkeys.cpp:241
 msgid "Start Campaign"
-msgstr "Fyrd Styrtan"
+msgstr "Fyrde Beginnan"
 
 #: src/hotkeys.cpp:248
 msgid "Start Multiplayer Game"
@@ -3711,7 +3704,7 @@ msgstr ""
 
 #: src/mapgen_dialog.cpp:306
 msgid "/1000 tiles"
-msgstr "/1000 tigelan"
+msgstr "/1000 tigelana"
 
 #: src/mapgen_dialog.cpp:315
 msgid "Coastal"
