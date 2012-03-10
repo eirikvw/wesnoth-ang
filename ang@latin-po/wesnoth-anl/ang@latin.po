@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-07 22:09+0200\n"
-"PO-Revision-Date: 2012-03-03 19:23-0500\n"
-"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
+"PO-Revision-Date: 2012-03-04 18:12+1200\n"
+"Last-Translator: Zetan R S <axonfifty@gmail.comm>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
 "MIME-Version: 1.0\n"
@@ -48,7 +48,7 @@ msgstr ""
 #. [objectives]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:32
 msgid "Right-click on your leader during your turn for help"
-msgstr "Slea þinne ladmann mid sƿiðran sidan þære mys to fonne help"
+msgstr "Slean þinne ladmann mid sƿiðran sidan þære mys to fonne help"
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:34
@@ -207,7 +207,7 @@ msgstr "Þæt scrin hielt $oc_treasure goldes."
 #. [option]
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:5
 msgid "Return to menu"
-msgstr "Ga eft to heafodgetæle"
+msgstr "Gan eft to heafodgetæle"
 
 #. [message]: speaker=narrator
 #. [option]: speaker=narrator
@@ -232,7 +232,7 @@ msgstr ""
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:27
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:132
 msgid "Mages"
-msgstr "Dryas"
+msgstr "Drymenn"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:29
@@ -240,7 +240,7 @@ msgid ""
 "Mages are your wise men. They can study at universities, pursuing advances "
 "in mining, farming and recruitment."
 msgstr ""
-"Dryas sind þine yþƿitan. Hie leorniaþ be eormengyldum, secende betunga on "
+"Dryenn sind þine yþƿitan. Hie leorniaþ be eormengyldum, secende betunga on "
 "delfunge, landbegang, and rinca hyrunge. "
 
 #. [message]: speaker=narrator
@@ -248,7 +248,7 @@ msgstr ""
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:37
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:139
 msgid "Farms"
-msgstr "Tunland"
+msgstr "Æceras"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:39
@@ -256,8 +256,8 @@ msgid ""
 "Farms can only be planted on grassland. Move a peasant onto a farm and he "
 "will begin to automatically harvest the cash crop."
 msgstr ""
-"Tunland cann man synderlice settan on græsland. Send gebur on tunland and he "
-"beginne selflice to gæderienne þa ƿeorþlic nyttplantan. "
+"Æceras cann man synderlice settan on græsland. Gif þu sende gebur on æcer "
+"and he beginne selflice to gæderienne þa ƿeorþlican nyttplantan. "
 
 #. [message]: speaker=narrator
 #. [option]: speaker=narrator
@@ -274,8 +274,8 @@ msgid ""
 "university."
 msgstr ""
 "Þorpas cunnon synderlice ƿesan getimbrod on græslande. Hie ahƿettaþ "
-"andleofan and hælo sƿa is gewunelic. Swing gebur on þorpe mid mys sƿiðran "
-"healfe and þa canst þu staðolian eormengyld. "
+"andleofan and hælo sƿa is gewunelic. Gif þu swinge gebur on þorpe mid mys "
+"sƿiðran healfe þonne canst þu staðolian eormengyld. "
 
 #. [message]: speaker=narrator
 #. [option]: speaker=narrator
@@ -309,9 +309,9 @@ msgid ""
 "research target."
 msgstr ""
 "Ænge þara ælfcundenda þorpa aspeliaþ eormengyldas. Be þines stæpes onginne, "
-"dryas and eormengylas selflice eacniaþ lare færeld þines gecorenan fandunge "
-"atihtinge. Sƿing dry on eormengylde mid myes sƿiðran healfe to ƿendenne "
-"fandunge atihtinge. "
+"drymenn and eormengylas selflice eacniaþ lare færeld þines gecorenan "
+"fandunge atihtinge. Sƿingan dry on eormengylde mid mys sƿiðran healfe to "
+"ƿendenne fandunge atihtinge. "
 
 #. [message]: speaker=narrator
 #. [option]: speaker=narrator
@@ -344,7 +344,7 @@ msgstr "Niƿe Land — Help"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:112
 msgid "Select a topic."
-msgstr "Ceos þu andtimber"
+msgstr "Ceosan andtimber."
 
 #. [option]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:115
@@ -391,7 +391,7 @@ msgid ""
 "Share knowledge of agriculture"
 msgstr ""
 "<span color='green'>$player_name</span>\n"
-"Todæl geƿitnesse be eorþbigenesse"
+"Todælan geƿitnesse be eorþbigenesse"
 
 #. [set_variable]
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:257
@@ -400,7 +400,7 @@ msgid ""
 "Share knowledge of mining"
 msgstr ""
 "<span color='green'>$player_name</span>\n"
-"Todæl geƿitnesse be delfunge"
+"Todælan geƿitnesse be delfunge"
 
 #. [set_variable]
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:264
@@ -409,14 +409,14 @@ msgid ""
 "Share knowledge of warfare"
 msgstr ""
 "<span color='green'>$player_name</span>\n"
-"Todæl geƿitnesse be guþcræfte"
+"Todælan geƿitnesse be guþcræfte"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:293
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:330
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:374
 msgid "Diplomatic Options"
-msgstr "Elefreondscipes ceosunga"
+msgstr "Elefreondscipes Ceosunga"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:296
@@ -436,7 +436,7 @@ msgid ""
 "Give 20 gold to another player"
 msgstr ""
 "<span color='green'>Gief feoh</span>\n"
-"Gief 20 gemeta goldes to oðrum plegende"
+"Giefan 20g to oðrum plegende"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:333
@@ -447,7 +447,7 @@ msgstr "Hƿæm ƿilt þu giefan feoh?"
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:336
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:380
 msgid "Back"
-msgstr "Eft"
+msgstr "Bæc"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:359
@@ -456,7 +456,7 @@ msgid ""
 "Help an ally with their research"
 msgstr ""
 "<span color='green'>Todæl geƿitnesse</span>\n"
-"Helpa geþoftan on heora fandunge"
+"Helpan geþoftan on heora fandunge"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:377
@@ -516,7 +516,7 @@ msgstr ""
 #. [set_menu_item]: id=anl_choose_new_recruit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:34
 msgid "Choose New Recruit"
-msgstr "Ceos niƿne hyredne mann"
+msgstr "Ceosan niƿne hyredne mann"
 
 #. [message]: speaker=unit
 #. [message]: speaker=narrator
@@ -525,7 +525,7 @@ msgstr "Ceos niƿne hyredne mann"
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:277
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:304
 msgid "Study Complete"
-msgstr "Cneorlæcing is fulfyled"
+msgstr "Fandung is fulfyled"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:64
@@ -535,7 +535,7 @@ msgstr "Hƿelc cynn ƿihta ƿilt þu þætte þu mihte hyran?"
 #. [set_menu_item]: id=anl_oversee_research
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:89
 msgid "Oversee Research"
-msgstr "Beƿit fandunge"
+msgstr "Beƿitan Fandunge"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:138
@@ -552,8 +552,8 @@ msgid ""
 "Our farms produce $player_$side_number|.farming.gold|g\n"
 "Our mines produce $player_$side_number|.mining.gold|g\n"
 msgstr ""
-"Nu cneordlæcaþ ƿe $player_$side_number|.research.target_language_name|. Hƿæt "
-"ƿilt þu þætte ure boceras cneordlæcan?\n"
+"Nu fandie ƿe $player_$side_number|.research.target_language_name|. Hƿæt ƿilt "
+"þu þætte ure boceras fandien?\n"
 "\n"
 "Ure tunas forþberaþ $player_$side_number|.farming.gold|g\n"
 "Uru gedelf forþberaþ $player_$side_number|.mining.gold|g\n"
@@ -561,7 +561,7 @@ msgstr ""
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:148
 msgid "Continue as before"
-msgstr "Ga forþ sƿa ær"
+msgstr "Gan forþ sƿa ær"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:167
@@ -625,8 +625,8 @@ msgid ""
 "$player_$side_number|.name|’s farms now produce $player_$side_number|."
 "farming.gold gold."
 msgstr ""
-"$player_$side_number|.name| tunas nu forþberaþ $player_$side_number|.farming."
-"gold gold."
+"$player_$side_number|.name| æceras nu forþberaþ $player_$side_number|."
+"farming.gold gold."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:279
@@ -634,8 +634,8 @@ msgid ""
 "$player_$side_number|.name|’s mines now produce $player_$side_number|.mining."
 "gold gold."
 msgstr ""
-"$player_$side_number|.name| nu forþberaþ $player_$side_number|.mining.gold "
-"gold."
+"$player_$side_number|.name| gedelf nu forþberaþ $player_$side_number|.mining."
+"gold gold."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:306
@@ -643,8 +643,8 @@ msgid ""
 "$player_$side_number|.name|, we have finished researching warfare. Right-"
 "click on a mage in a university to select a unit to recruit."
 msgstr ""
-"$player_$side_number|.name|, ƿe habbaþ fulfyled þa fandunge ymb guþcræft. "
-"Sƿing þu dry on eormengylde to ceosenne ƿihte to hyrenne. "
+"$player_$side_number|.name|, ƿe habbaþ fulfyled þa fandunge ymb guþcræft. Þu "
+"ahst sƿingan drymann on eormengylde to ceosenne ƿihte to hyrenne. "
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:197
@@ -670,7 +670,7 @@ msgstr "Hƿæt scolde ic don, leof?"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:69
 msgid "Convert to Grassland"
-msgstr "Ƿend to græslande"
+msgstr "Ƿendan to græslande"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:69
@@ -683,12 +683,12 @@ msgstr "Ƿeorþ: 0g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:86
 msgid "Plant Farm"
-msgstr "Sete tunland"
+msgstr "Settan Æcer"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:100
 msgid "Build Village"
-msgstr "Timbra þorp"
+msgstr "Timbrian Þorp"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:100
@@ -698,7 +698,7 @@ msgstr "Ƿeorþ: 15g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:122
 msgid "Build Castle"
-msgstr "Timbra ceaster"
+msgstr "Timbrian Burh"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:122
@@ -714,7 +714,7 @@ msgstr "Ƿeorþ: 4g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:143
 msgid "Flood the Field"
-msgstr "Adrenc þone feld"
+msgstr "Adrencan þone feld"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:166
@@ -725,12 +725,12 @@ msgstr "Ƿeorþ: 1g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:166
 msgid "Plant Saplings"
-msgstr "Sete geonge beamas"
+msgstr "Settan Geonge Beamas"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
 msgid "Chop Down Forest"
-msgstr "Fyle ƿeald"
+msgstr "Fyllan Ƿeald"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
@@ -741,7 +741,7 @@ msgstr "Earnaþ: 1g"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:247
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:272
 msgid "Build Mine"
-msgstr "Timbra gedelf"
+msgstr "Timbrian Gedelf"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:247
@@ -758,7 +758,7 @@ msgstr "Ƿeorþ: 3g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:297
 msgid "Make a Ford"
-msgstr "Ƿyrc"
+msgstr "Ƿyrcan Ford"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:323
@@ -774,7 +774,7 @@ msgstr "Grundfyllung"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:352
 msgid "Destroy the Ford"
-msgstr "Dela þone ford"
+msgstr "Delegian þone Ford"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:404
@@ -785,7 +785,7 @@ msgstr "Ƿeorþ: 2g"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:404
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:427
 msgid "Smash Cave Floor"
-msgstr "Brec holes flor"
+msgstr "Brecan Holes Flor"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:450
@@ -795,12 +795,12 @@ msgstr "Earnaþ: 3g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:450
 msgid "Harvest Mushrooms"
-msgstr "Gædera sƿammas"
+msgstr "Gæderian Sƿammas"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:498
 msgid "Build a Keep"
-msgstr "Timbra fæstnesse"
+msgstr "Timbrian Fæstnesse"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:522
@@ -810,9 +810,9 @@ msgstr "Ƿeorþ: 7g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:522
 msgid "Establish University"
-msgstr "Staðola eormengyld"
+msgstr "Staðolian Eormengyld"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
 msgid "Clear the Ground"
-msgstr "Idla þone grund"
+msgstr "Idlian þone Grund"
