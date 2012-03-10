@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-07 22:09+0200\n"
-"PO-Revision-Date: 2012-03-09 21:52-0500\n"
+"PO-Revision-Date: 2012-03-09 21:59-0500\n"
 "Last-Translator: Zetan R S <axonfifty@gmail.comm>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -61,7 +61,7 @@ msgstr "Þu scealt lifian oþ þone 25. stæpe. "
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:81
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:96
 msgid "teamname^Team 1"
-msgstr "1. hloþ"
+msgstr "1. Hloþ"
 
 #. [side]: type=Death Knight
 #. [side]: type=Orcish Sovereign
@@ -70,7 +70,7 @@ msgstr "1. hloþ"
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:168
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:195
 msgid "teamname^Team 2"
-msgstr "2. hloþ"
+msgstr "2. Hloþ"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:407
@@ -349,7 +349,7 @@ msgstr "Ceosan andtimber."
 #. [option]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:115
 msgid "Done"
-msgstr "Don"
+msgstr "Gedon"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:47
@@ -446,6 +446,7 @@ msgstr "Hƿæm ƿilt þu giefan feoh?"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:336
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:380
+#, fuzzy
 msgid "Back"
 msgstr "Bæc"
 
@@ -714,7 +715,7 @@ msgstr "Ƿeorþ: 4g"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:143
 msgid "Flood the Field"
-msgstr "Adrencan þone feld"
+msgstr "Adrencan þone Feld"
 
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:166
