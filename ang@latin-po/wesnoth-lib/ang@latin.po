@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-03-10 02:15-0500\n"
+"PO-Revision-Date: 2012-03-11 23:59-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -726,17 +726,19 @@ msgstr ""
 #. [terrain_type]: id=orcish_village
 #: data/core/terrain.cfg:1172
 msgid "Orcish Village"
-msgstr ""
+msgstr "Orcisc Þorp"
 
 #. [terrain_type]: id=orcish_snow_village
 #: data/core/terrain.cfg:1185
+#, fuzzy
 msgid "Snowy Orcish Village"
-msgstr ""
+msgstr "Snaƿig Orcisc Þorp"
 
 #. [terrain_type]: id=elven_snow_village
 #: data/core/terrain.cfg:1200
+#, fuzzy
 msgid "Snowy Elven Village"
-msgstr ""
+msgstr "Snaƿig Ælfisc Þorp"
 
 #. [terrain_type]: id=elven_village
 #: data/core/terrain.cfg:1213
@@ -771,7 +773,7 @@ msgstr "Ƿindmylena Þorp"
 #. [terrain_type]: id=city_village_wno
 #: data/core/terrain.cfg:1293
 msgid "Snowy Human City"
-msgstr "Besniƿod Mennisc Burg"
+msgstr "Snaƿig Mennisc Burg"
 
 #. [terrain_type]: id=city_village
 #: data/core/terrain.cfg:1306
@@ -805,8 +807,9 @@ msgstr ""
 
 #. [terrain_type]: id=underground_village
 #: data/core/terrain.cfg:1386
+#, fuzzy
 msgid "Cave Village"
-msgstr ""
+msgstr "Scræf Þorp"
 
 #. [terrain_type]: id=dwarven_village
 #: data/core/terrain.cfg:1399
@@ -884,12 +887,12 @@ msgstr "Burh"
 #. [terrain_type]: id=orcish_fort
 #: data/core/terrain.cfg:1547
 msgid "Orcish Castle"
-msgstr ""
+msgstr "Orcisc Burh"
 
 #. [terrain_type]: id=snow_orcish_fort
 #: data/core/terrain.cfg:1559
 msgid "Snowy Orcish Castle"
-msgstr ""
+msgstr "Snaƿig Orcisc Burh"
 
 #. [terrain_type]: id=castle
 #: data/core/terrain.cfg:1571
@@ -1391,7 +1394,7 @@ msgstr "Nama"
 #: data/gui/default/window/data_manage.cfg:177
 #: data/gui/default/window/game_load.cfg:277
 msgid "Date"
-msgstr ""
+msgstr "Tælmearc"
 
 #. [button]: id=clear
 #: data/gui/default/window/data_manage.cfg:266
@@ -3704,7 +3707,7 @@ msgstr ""
 
 #: src/mapgen_dialog.cpp:306
 msgid "/1000 tiles"
-msgstr "/1000 tigelana"
+msgstr "/1000 tigelena"
 
 #: src/mapgen_dialog.cpp:315
 msgid "Coastal"
