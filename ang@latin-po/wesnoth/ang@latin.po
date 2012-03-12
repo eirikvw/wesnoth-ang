@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-03-08 02:15-0500\n"
+"PO-Revision-Date: 2012-03-11 23:12-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -379,7 +379,7 @@ msgstr "Niƿe Englisc (GB) Geþeodnes"
 #: data/core/about.cfg:1596
 #, fuzzy
 msgid "English (Shaw) Translation"
-msgstr "Niƿe Englisc (Shaw) Geþeodnes"
+msgstr "Niƿe Englisc (on Scaƿes stæfrofe) Geþeodnes"
 
 #. [about]
 #: data/core/about.cfg:1620
@@ -912,8 +912,9 @@ msgstr ""
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:423
+#, fuzzy
 msgid "Ring of Slowness"
-msgstr ""
+msgstr "Lætnesse Hring"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:426
@@ -940,21 +941,25 @@ msgid "Only the mermen can use this item!"
 msgstr ""
 
 #: data/core/macros/items.cfg:514
+#, fuzzy
 msgid "Should $unit.name pick up the trident?"
-msgstr ""
+msgstr "Sceal $unit.name se þreotind niman?"
 
 #: data/core/macros/items.cfg:514
+#, fuzzy
 msgid "storm trident^Leave it"
-msgstr ""
+msgstr "Hine læfan"
 
 #: data/core/macros/items.cfg:514
+#, fuzzy
 msgid "storm trident^Take it"
-msgstr ""
+msgstr "Hine niman"
 
 #. [object]
 #: data/core/macros/items.cfg:516
+#, fuzzy
 msgid "Storm Trident"
-msgstr ""
+msgstr "Stormes Þreotind"
 
 #. [object]
 #: data/core/macros/items.cfg:519
@@ -1894,9 +1899,8 @@ msgstr ""
 
 #. [tip]
 #: data/hardwired/tips.cfg:13
-#, fuzzy
 msgid "<i>― King Konrad, 536YW</i>"
-msgstr "<i>― Cyning Konrad, 536YW</i>"
+msgstr "<i>― Konrad Cyning, 536ǷG</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:16
@@ -1940,8 +1944,9 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:29 data/hardwired/tips.cfg:105
 #: data/hardwired/tips.cfg:213 data/hardwired/tips.cfg:225
+#, fuzzy
 msgid "<i>― High Lord Kalenz, 470YW</i>"
-msgstr ""
+msgstr "<i>― Kalenz Heah Hlaford, 470ǷG</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:32
@@ -2157,9 +2162,8 @@ msgstr ""
 
 #. [tip]
 #: data/hardwired/tips.cfg:117
-#, fuzzy
 msgid "<i>― Meneldur, 123YW</i>"
-msgstr "<i>― Meneldur, 123YW</i>"
+msgstr "<i>― Meneldur, 123ǷG</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:120
@@ -2302,9 +2306,8 @@ msgstr ""
 
 #. [tip]
 #: data/hardwired/tips.cfg:185
-#, fuzzy
 msgid "<i>― Queen Li’sar, 528YW</i>"
-msgstr "<i>― Li’sar Cyninge, 528YW</i>"
+msgstr "<i>― Li’sar Cyninge, 528ǷG</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:188
@@ -2383,8 +2386,9 @@ msgstr ""
 
 #. [tip]
 #: data/hardwired/tips.cfg:221 data/hardwired/tips.cfg:233
+#, fuzzy
 msgid "<i>― Lord Hamel of Knalga</i>"
-msgstr ""
+msgstr "<i>― Knalgan Hamel Hlaford</i>"
 
 #. [tip]
 #: data/hardwired/tips.cfg:224
@@ -3238,7 +3242,7 @@ msgstr ""
 
 #: src/dialogs.cpp:609
 msgid "Date"
-msgstr ""
+msgstr "Tælmearc"
 
 #: src/dialogs.cpp:626 src/multiplayer_create.cpp:115
 msgid "Load Game"
@@ -5535,7 +5539,6 @@ msgid "$error, value '$value', previous '$previous_value' at $pos"
 msgstr ""
 
 #: src/serialization/parser.cpp:366
-#, fuzzy
 msgid "$error, value '$value' at $pos"
 msgstr "$error, ƿeorþ '$value' æt $pos"
 
