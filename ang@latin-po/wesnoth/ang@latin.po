@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-03-11 23:12-0500\n"
+"PO-Revision-Date: 2012-03-12 01:27-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -912,7 +912,6 @@ msgstr ""
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:423
-#, fuzzy
 msgid "Ring of Slowness"
 msgstr "Lætnesse Hring"
 
@@ -941,23 +940,19 @@ msgid "Only the mermen can use this item!"
 msgstr ""
 
 #: data/core/macros/items.cfg:514
-#, fuzzy
 msgid "Should $unit.name pick up the trident?"
-msgstr "Sceal $unit.name se þreotind niman?"
+msgstr "Sceal $unit.name þone þreotind niman?"
 
 #: data/core/macros/items.cfg:514
-#, fuzzy
 msgid "storm trident^Leave it"
 msgstr "Hine læfan"
 
 #: data/core/macros/items.cfg:514
-#, fuzzy
 msgid "storm trident^Take it"
 msgstr "Hine niman"
 
 #. [object]
 #: data/core/macros/items.cfg:516
-#, fuzzy
 msgid "Storm Trident"
 msgstr "Stormes Þreotind"
 
@@ -1944,7 +1939,6 @@ msgstr ""
 #. [tip]
 #: data/hardwired/tips.cfg:29 data/hardwired/tips.cfg:105
 #: data/hardwired/tips.cfg:213 data/hardwired/tips.cfg:225
-#, fuzzy
 msgid "<i>― High Lord Kalenz, 470YW</i>"
 msgstr "<i>― Kalenz Heah Hlaford, 470ǷG</i>"
 
@@ -2386,7 +2380,6 @@ msgstr ""
 
 #. [tip]
 #: data/hardwired/tips.cfg:221 data/hardwired/tips.cfg:233
-#, fuzzy
 msgid "<i>― Lord Hamel of Knalga</i>"
 msgstr "<i>― Knalgan Hamel Hlaford</i>"
 
