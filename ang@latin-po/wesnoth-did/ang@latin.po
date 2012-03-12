@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-10-07 22:09+0200\n"
-"PO-Revision-Date: 2012-01-31 15:49-0500\n"
+"PO-Revision-Date: 2012-03-12 01:39-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -1287,7 +1287,7 @@ msgstr ""
 #. [unit]: type=Arch Mage, type=Great Mage, id=Lord Karres
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:121
 msgid "Lord Karres"
-msgstr "Hlaford Karres"
+msgstr "Karres Hlaford"
 
 #. [do]
 #. [event]
