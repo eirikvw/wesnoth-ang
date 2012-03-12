@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-03-11 23:59-0500\n"
+"PO-Revision-Date: 2012-03-12 01:19-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -496,9 +496,8 @@ msgstr ""
 
 #. [terrain_type]: id=lit
 #: data/core/terrain.cfg:815
-#, fuzzy
 msgid "Lit"
-msgstr "Geleohted"
+msgstr "Gebeorhted"
 
 #. [terrain_type]: id=lit
 #: data/core/terrain.cfg:816
@@ -730,13 +729,11 @@ msgstr "Orcisc Þorp"
 
 #. [terrain_type]: id=orcish_snow_village
 #: data/core/terrain.cfg:1185
-#, fuzzy
 msgid "Snowy Orcish Village"
 msgstr "Snaƿig Orcisc Þorp"
 
 #. [terrain_type]: id=elven_snow_village
 #: data/core/terrain.cfg:1200
-#, fuzzy
 msgid "Snowy Elven Village"
 msgstr "Snaƿig Ælfisc Þorp"
 
@@ -807,9 +804,8 @@ msgstr ""
 
 #. [terrain_type]: id=underground_village
 #: data/core/terrain.cfg:1386
-#, fuzzy
 msgid "Cave Village"
-msgstr "Scræf Þorp"
+msgstr "Scræfes Þorp"
 
 #. [terrain_type]: id=dwarven_village
 #: data/core/terrain.cfg:1399
@@ -901,7 +897,6 @@ msgstr "Mennisc Burh"
 
 #. [terrain_type]: id=snow_castle
 #: data/core/terrain.cfg:1582
-#, fuzzy
 msgid "Snowy Human Castle"
 msgstr "Snaƿig Mennisc Burh"
 
@@ -2121,7 +2116,6 @@ msgstr ""
 
 #. [label]: id=map_size
 #: data/gui/default/window/mp_create_game.cfg:167
-#, fuzzy
 msgid "Map size: "
 msgstr "Landcartan grietu: "
 
@@ -2362,7 +2356,6 @@ msgstr ""
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:229
-#, fuzzy
 msgid "Change the language"
 msgstr "Þa spræce ƿendan"
 
