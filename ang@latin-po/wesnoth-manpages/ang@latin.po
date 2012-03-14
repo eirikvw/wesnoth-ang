@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-06 12:00+0100\n"
-"PO-Revision-Date: 2012-02-12 21:44-0500\n"
+"PO-Revision-Date: 2012-03-14 07:38-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -803,7 +803,7 @@ msgstr ""
 #: ../../doc/man/wesnothd.6:47
 #, no-wrap
 msgid "B<-c\\ >I<path>B<,\\ --config>I<\\ path>"
-msgstr ""
+msgstr "B<-c\\ >I<pæþ>B<,\\ --config>I<\\ pæþ>"
 
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:52
@@ -918,13 +918,15 @@ msgstr ""
 
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:103
+#, fuzzy
 msgid "I<key>=\"I<value>\""
-msgstr ""
+msgstr "I<cæg>=\"I<ƿeorþ>\""
 
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:105
+#, fuzzy
 msgid "I<key>=\"I<value>,I<value>,...\""
-msgstr ""
+msgstr "I<cæg>=\"I<ƿeorþ>,I<ƿeorþ>,...\""
 
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:107
