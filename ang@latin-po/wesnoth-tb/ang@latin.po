@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-03-12 01:36-0500\n"
+"PO-Revision-Date: 2012-03-14 04:19-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -21,13 +21,13 @@ msgstr ""
 #: data/campaigns/Two_Brothers/_main.cfg:12
 #, fuzzy
 msgid "A Tale of Two Brothers"
-msgstr "Talu ymbe Tƿegen Broðra"
+msgstr "Talu ymbe Tƿegen Gebroðra"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:13
 #, fuzzy
 msgid "AToTB"
-msgstr "TyTB"
+msgstr "TyTG"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:17
