@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-12-05 16:25+0100\n"
-"PO-Revision-Date: 2012-03-12 01:19-0500\n"
+"PO-Revision-Date: 2012-03-14 08:43-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -810,7 +810,7 @@ msgstr "Scræfes Þorp"
 #. [terrain_type]: id=dwarven_village
 #: data/core/terrain.cfg:1399
 msgid "Dwarven Village"
-msgstr ""
+msgstr "Dƿeorgisc Þorp"
 
 #. [terrain_type]: id=hut_village
 #: data/core/terrain.cfg:1412
@@ -1828,7 +1828,7 @@ msgstr ""
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:180
 msgid "Unknown era"
-msgstr ""
+msgstr "Uncuþ ieldu"
 
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:182
@@ -2413,7 +2413,7 @@ msgstr "Ƿiflic"
 #. [label]: id=race
 #: data/gui/default/window/unit_create.cfg:119
 msgid "Race"
-msgstr ""
+msgstr "Cynn"
 
 #: src/filechooser.cpp:77
 msgid "File: "
