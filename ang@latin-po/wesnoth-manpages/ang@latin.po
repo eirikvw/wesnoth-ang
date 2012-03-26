@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-06 12:00+0100\n"
-"PO-Revision-Date: 2012-03-14 07:38-0500\n"
+"PO-Revision-Date: 2012-03-26 07:57-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -39,7 +39,7 @@ msgstr "wesnoth"
 #: ../../doc/man/wesnoth.6:16
 #, no-wrap
 msgid "Battle for Wesnoth"
-msgstr "Ƿig for Ƿesnoþ"
+msgstr "Ƿig ymbe Ƿesnoþ"
 
 #. type: SH
 #: ../../doc/man/wesnoth.6:18 ../../doc/man/wesnothd.6:18
@@ -124,7 +124,7 @@ msgstr ""
 #: ../../doc/man/wesnoth.6:54
 #, no-wrap
 msgid "B<--campaign-difficulty E<lt>difficultyE<gt>>"
-msgstr ""
+msgstr "B<--campaign-difficulty E<lt>earfoðnesE<gt>>"
 
 #. type: Plain text
 #: ../../doc/man/wesnoth.6:57
