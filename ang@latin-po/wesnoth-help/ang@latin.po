@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-21 01:34+0100\n"
-"PO-Revision-Date: 2012-03-07 21:54-0500\n"
+"PO-Revision-Date: 2012-03-26 08:38-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -3108,7 +3108,7 @@ msgstr ""
 #. [time]: id=indoors
 #: data/core/macros/schedules.cfg:70
 msgid "Indoors"
-msgstr ""
+msgstr "Inne"
 
 #. [time]: id=deep_underground
 #: data/core/macros/schedules.cfg:90
@@ -4350,7 +4350,7 @@ msgstr ""
 
 #: src/help.cpp:1407
 msgid "Race: "
-msgstr ""
+msgstr "Cynn: "
 
 #: src/help.cpp:1414
 msgid "Abilities: "
