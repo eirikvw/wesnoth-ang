@@ -39,5 +39,5 @@ wesnoth-utbs
 
 for i in "${td[@]}"
 do
-anglat2futhorc.py ~/wesnoth-ang/ang\@latin-po/$i/ang\@latin.po ~/wesnoth-ang/ang-po/$i/ang.po
+anglat2futhorc.py ~/wesnoth-ang/mainline/$i/ang\@latin.po ~/wesnoth-ang/mainline/$i/ang.po
 done

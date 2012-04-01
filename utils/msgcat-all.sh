@@ -36,9 +36,9 @@ wesnoth-utbs
 
 for i in "${td[@]}"
 do
-msgcat ang-po/$i/ang.po -o ang-po/$i/ang.po
-msgcat ang\@latin-po/$i/ang\@latin.po -o ang\@latin-po/$i/ang\@latin.po
-#echo msgcat ang-po/$i/ang.po -o ang-po/$i/ang.po
-#echo msgcat ang\@latin-po/$i/ang\@latin.po -o ang\@latin-po/$i/ang\@latin.po
+msgcat mainline/$i/ang.po -o mainline/$i/ang.po
+msgcat mainline/$i/ang\@latin.po -o mainline/$i/ang\@latin.po
+#echo msgcat mainline/$i/ang.po mainline/$i/ang.po
+#echo msgcat mainline-po/$i/ang\@latin.po -o mainline/$i/ang\@latin.po
 #echo $i
 done
