@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ang@latin\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-01-08 18:11+0100\n"
-"PO-Revision-Date: 2012-03-14 09:04-0500\n"
+"PO-Revision-Date: 2012-03-31 23:11-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -2493,7 +2493,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: /src/wesnoth/doc/manual/manual.en.xml:2017
 msgid "Nightstalk"
-msgstr ""
+msgstr "Nihtstealcung"
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 #: /src/wesnoth/doc/manual/manual.en.xml:2021
