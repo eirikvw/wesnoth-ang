@@ -1,10 +1,10 @@
-# Steven Panek (Espreon) <Majora700@gmail.com> 2011
+# Steven Panek (Espreon) <Majora700@gmail.com>, 2011-2012
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-08 16:15-0500\n"
-"PO-Revision-Date: 2011-04-21 21:20-0500\n"
+"PO-Revision-Date: 2012-04-04 17:27-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: Old English <http://wiki.wesnoth.org/OldEnglishTranslation>\n"
 "Language: ang@latin\n"
@@ -261,12 +261,13 @@ msgstr "eage"
 msgid "Barbarian"
 msgstr ""
 
+# Espreon sayeth: The plus sign in there looks meh and modern.
 #. [attack]: type=blade
 #: Era_of_Magic/units/Barbarians/Barbarian.cfg:22
 #: Era_of_Magic/units/Barbarians/Barbarian_King.cfg:27
 #: Era_of_Magic/units/Barbarians/Barbarian_Lord.cfg:26
 msgid "sword+axe"
-msgstr "sƿeord+æx"
+msgstr "sƿeord and æx"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_Berserker.cfg:4
@@ -917,6 +918,7 @@ msgstr ""
 msgid "light touch"
 msgstr ""
 
+# Espreon: Yes, translated the same as "lightbeam", but I don't think it'll matter.
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Child_of_Light.cfg:70
 #: Era_of_Magic/units/Kharos/Sister_of_Light.cfg:82
@@ -1089,7 +1091,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Mistress_of_Light.cfg:122
 msgid "lightstorm"
-msgstr ""
+msgstr "leohtstorm"
 
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Platinum_Warrior.cfg:4
@@ -1144,7 +1146,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
 #: Era_of_Magic/units/Kharos/Shielder.cfg:4
 msgid "Shielder"
-msgstr "Scyldwiga"
+msgstr "Scyldƿiga"
 
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
 #: Era_of_Magic/units/Kharos/Shielder.cfg:19
@@ -1165,8 +1167,9 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightSister, race=human, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}+{EOMA_SPECIAL_NOTES_HEALS2}+{EOMA_SPECIAL_NOTES_INSPIRE}
 #: Era_of_Magic/units/Kharos/Sister_of_Light.cfg:4
+#, fuzzy
 msgid "female^Sister of Light"
-msgstr ""
+msgstr "Leohtes Sƿeostor"
 
 #. [unit_type]: id=I8 Kharos_SunSlicer, race=human
 #: Era_of_Magic/units/Kharos/Slicer.cfg:4
@@ -1386,7 +1389,7 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:33
 #: Era_of_Magic/units/Runemasters/Technician.cfg:47
 msgid "saw"
-msgstr ""
+msgstr "saga"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:42
@@ -1493,7 +1496,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
 #: Era_of_Magic/units/Runemasters/Runesmith.cfg:4
 msgid "Runesmith"
-msgstr ""
+msgstr "Runsmiþ"
 
 #. [unit_type]: id=I8 AD_SteamBerserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/Steam_Berserker.cfg:4
@@ -1579,7 +1582,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Black_Mage.cfg:4
 msgid "Black Mage"
-msgstr ""
+msgstr "Blæc Drymann"
 
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Black_Mage.cfg:17
@@ -1603,7 +1606,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Sky_Kingdom/Deadly_Eye.cfg:77
 msgid "blades"
-msgstr ""
+msgstr "ecga"
 
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Elementalist.cfg:4
@@ -1812,8 +1815,9 @@ msgstr "þunor"
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:211
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:144
+#, fuzzy
 msgid "eye of the storm"
-msgstr ""
+msgstr "stormes eage"
 
 #. [unit_type]: id=I8 enlightened_masterofelements, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:4
@@ -1825,7 +1829,7 @@ msgstr ""
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Elements.cfg:108
 #: Era_of_Magic/units/al_Kamija/Great_Efreeti.cfg:104
 msgid "touch"
-msgstr ""
+msgstr "athrine"
 
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Fire.cfg:4
@@ -2115,6 +2119,7 @@ msgstr "cnifas"
 
 #. [unit_type]: id=I8 Tharis_Hunter, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Hunter.cfg:4
+#, fuzzy
 msgid "Dark Hunter"
 msgstr "Deorc Dræfend"
 
@@ -2130,6 +2135,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Witch.cfg:4
+#, fuzzy
 msgid "Dark Witch"
 msgstr "Deorce Ƿicce"
 
@@ -2361,6 +2367,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:4
+#, fuzzy
 msgid "Air God"
 msgstr "Lyft God"
 
@@ -2615,6 +2622,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_God.cfg:4
+#, fuzzy
 msgid "Earth God"
 msgstr "Eorþ God"
 
@@ -2632,6 +2640,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Efreeti.cfg:4
+#, fuzzy
 msgid "Efreet"
 msgstr "Efreet"
 
@@ -2699,6 +2708,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_God.cfg:4
+#, fuzzy
 msgid "Fire God"
 msgstr "Fyr God"
 
@@ -2871,6 +2881,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:4
+#, fuzzy
 msgid "Jinn"
 msgstr "Jinn"
 
@@ -3149,6 +3160,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_God.cfg:4
+#, fuzzy
 msgid "Water God"
 msgstr "Ƿæter God"
 
@@ -3243,6 +3255,7 @@ msgstr ""
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:71 Era_of_Magic/units/units.cfg:72
+#, fuzzy
 msgid ""
 "Alib,Kalib,Balib,Safay,Jaffar,Semir,Celal,Fatih,Ferhan,Mustafa,Mehmet,Melih,"
 "Ali,Adem,Ahmet,Altan,Ismet,Ibrahim,Hakan,Kemal,Kenan,Rafet,Tahir,Yasar,Yasin,"
@@ -3838,7 +3851,7 @@ msgstr ""
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:1417
 msgid "heals +2"
-msgstr "hælaþ +2"
+msgstr "hælþ +2"
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:1418
@@ -3878,11 +3891,12 @@ msgid ""
 "Adjacent friendly level 2 units will do 10% more damage in battle."
 msgstr ""
 
+# Espreon sayeth: Yes, this is true awe!
 #. [leadership]: id=terror
 #: Era_of_Magic/utils/abilities.cfg:1515 Era_of_Magic/utils/abilities.cfg:1551
 #: Era_of_Magic/utils/abilities.cfg:1601
 msgid "awe"
-msgstr ""
+msgstr "ege"
 
 #. [leadership]: id=terror
 #: Era_of_Magic/utils/abilities.cfg:1516
@@ -4227,7 +4241,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:206
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/utils/summon.cfg:207
