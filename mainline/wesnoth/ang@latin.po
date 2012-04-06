@@ -5780,7 +5780,6 @@ msgstr ""
 #~ msgid "Lord"
 #~ msgstr "Hlaford"
 
-#~| msgid "Hard"
 #~ msgid "(Hard)"
 #~ msgstr "(Heard)"
 
