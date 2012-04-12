@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GambCiv 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-07 12:36-0500\n"
-"PO-Revision-Date: 2012-03-09 19:41+1200\n"
+"PO-Revision-Date: 2012-04-12 17:39+1200\n"
 "Last-Translator: Zetan R S <axonfifty@gmail.comm>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: GambCiv/utils/commands/buildings/goldmine.cfg:9
 msgid "Mine for gold"
-msgstr "Delfan gold"
+msgstr "Gold delfan"
 
 #. [then]
 #: GambCiv/utils/commands/buildings/goldmine.cfg:34
@@ -242,7 +242,7 @@ msgstr "Scip byldan"
 #. [command]
 #: GambCiv/utils/commands/buildings/shipyard.cfg:59
 msgid "What should we build?"
-msgstr "Hƿæt agaþ ƿe byldan?"
+msgstr "Hƿæt agan ƿe byldan?"
 
 #. [command]
 #: GambCiv/utils/commands/buildings/shipyard.cfg:60
@@ -398,7 +398,7 @@ msgstr ""
 #. [event]
 #: GambCiv/utils/commands/buildings/university.cfg:54
 msgid "What should we teach?"
-msgstr "Hƿæt agaþ ƿe tæcan?"
+msgstr "Hƿæt agan ƿe tæcan?"
 
 #. [event]
 #: GambCiv/utils/commands/buildings/university.cfg:55
@@ -745,11 +745,13 @@ msgstr "$nearby_ships[$i].name æt $nearby_ships[$i].x,$nearby_ships[$i].y"
 
 #. [set_menu_item]: id=da_disembark
 #: GambCiv/utils/commands/ships.cfg:331
+#, fuzzy
 msgid "Disembark from ship"
 msgstr "Scip læfan"
 
 #. [command]
 #: GambCiv/utils/commands/ships.cfg:372
+#, fuzzy
 msgid ""
 "You have: <span color=$s_ACTION_COLOR|>$side_stats[$side_number]."
 "action_points Actions</span> | <span color=$s_GOLD_COLOR|>$side_stats"
@@ -758,7 +760,7 @@ msgid ""
 "[$side_number].material Material</span>\n"
 "Which unit should disembark?"
 msgstr ""
-"You have: <span color=$s_ACTION_COLOR|>$side_stats[$side_number]."
+"Þu hafast: <span color=$s_ACTION_COLOR|>$side_stats[$side_number]."
 "action_points ...</span> | <span color=$s_GOLD_COLOR|>$side_stats"
 "[$side_number].gold Goldes</span> | <span color=$s_FOOD_COLOR|>$side_stats"
 "[$side_number].food Fodan</span> | <span color=$s_MATERIAL_COLOR|>$side_stats"
@@ -894,6 +896,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: GambCiv/utils/menus.cfg:106
+#, fuzzy
 msgid ""
 "You have: <span color=$s_ACTION_COLOR|>$side_stats[$side_number]."
 "action_points Actions</span> | <span color=$s_GOLD_COLOR|>$side_stats"
